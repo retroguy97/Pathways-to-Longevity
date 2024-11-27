@@ -1,0 +1,2929 @@
+Country Code,Country,Year,Value
+AGO,Angola,2015,240
+AGO,Angola,2014,244
+AGO,Angola,2013,249
+AGO,Angola,2012,253
+AGO,Angola,2011,260
+AGO,Angola,2010,270
+AGO,Angola,2009,281
+AGO,Angola,2008,292
+AGO,Angola,2007,303
+AGO,Angola,2006,314
+AGO,Angola,2005,323
+AGO,Angola,2004,334
+AGO,Angola,2003,343
+AGO,Angola,2002,355
+AGO,Angola,2001,372
+AGO,Angola,2000,384
+BDI,Burundi,2015,296
+BDI,Burundi,2014,300
+BDI,Burundi,2013,302
+BDI,Burundi,2012,308
+BDI,Burundi,2011,315
+BDI,Burundi,2010,323
+BDI,Burundi,2009,330
+BDI,Burundi,2008,340
+BDI,Burundi,2007,345
+BDI,Burundi,2006,350
+BDI,Burundi,2005,357
+BDI,Burundi,2004,364
+BDI,Burundi,2003,370
+BDI,Burundi,2002,369
+BDI,Burundi,2001,365
+BDI,Burundi,2000,370
+BEN,Benin,2015,246
+BEN,Benin,2014,248
+BEN,Benin,2013,250
+BEN,Benin,2012,252
+BEN,Benin,2011,254
+BEN,Benin,2010,257
+BEN,Benin,2009,261
+BEN,Benin,2008,276
+BEN,Benin,2007,281
+BEN,Benin,2006,282
+BEN,Benin,2005,284
+BEN,Benin,2004,285
+BEN,Benin,2003,285
+BEN,Benin,2002,284
+BEN,Benin,2001,283
+BEN,Benin,2000,282
+BFA,Burkina Faso,2015,260
+BFA,Burkina Faso,2014,264
+BFA,Burkina Faso,2013,266
+BFA,Burkina Faso,2012,267
+BFA,Burkina Faso,2011,272
+BFA,Burkina Faso,2010,277
+BFA,Burkina Faso,2009,282
+BFA,Burkina Faso,2008,289
+BFA,Burkina Faso,2007,294
+BFA,Burkina Faso,2006,303
+BFA,Burkina Faso,2005,314
+BFA,Burkina Faso,2004,323
+BFA,Burkina Faso,2003,330
+BFA,Burkina Faso,2002,335
+BFA,Burkina Faso,2001,339
+BFA,Burkina Faso,2000,342
+BWA,Botswana,2015,263
+BWA,Botswana,2014,277
+BWA,Botswana,2013,291
+BWA,Botswana,2012,302
+BWA,Botswana,2011,319
+BWA,Botswana,2010,331
+BWA,Botswana,2009,354
+BWA,Botswana,2008,396
+BWA,Botswana,2007,422
+BWA,Botswana,2006,471
+BWA,Botswana,2005,535
+BWA,Botswana,2004,607
+BWA,Botswana,2003,641
+BWA,Botswana,2002,645
+BWA,Botswana,2001,628
+BWA,Botswana,2000,601
+CAF,Central African Republic,2015,418
+CAF,Central African Republic,2014,444
+CAF,Central African Republic,2013,467
+CAF,Central African Republic,2012,445
+CAF,Central African Republic,2011,450
+CAF,Central African Republic,2010,458
+CAF,Central African Republic,2009,470
+CAF,Central African Republic,2008,495
+CAF,Central African Republic,2007,516
+CAF,Central African Republic,2006,530
+CAF,Central African Republic,2005,539
+CAF,Central African Republic,2004,545
+CAF,Central African Republic,2003,547
+CAF,Central African Republic,2002,547
+CAF,Central African Republic,2001,544
+CAF,Central African Republic,2000,531
+CIV,Cote d'Ivoire,2015,410
+CIV,Cote d'Ivoire,2014,418
+CIV,Cote d'Ivoire,2013,418
+CIV,Cote d'Ivoire,2012,416
+CIV,Cote d'Ivoire,2011,409
+CIV,Cote d'Ivoire,2010,415
+CIV,Cote d'Ivoire,2009,424
+CIV,Cote d'Ivoire,2008,423
+CIV,Cote d'Ivoire,2007,437
+CIV,Cote d'Ivoire,2006,444
+CIV,Cote d'Ivoire,2005,459
+CIV,Cote d'Ivoire,2004,475
+CIV,Cote d'Ivoire,2003,478
+CIV,Cote d'Ivoire,2002,477
+CIV,Cote d'Ivoire,2001,469
+CIV,Cote d'Ivoire,2000,461
+CMR,Cameroon,2015,355
+CMR,Cameroon,2014,358
+CMR,Cameroon,2013,352
+CMR,Cameroon,2012,352
+CMR,Cameroon,2011,354
+CMR,Cameroon,2010,355
+CMR,Cameroon,2009,358
+CMR,Cameroon,2008,365
+CMR,Cameroon,2007,376
+CMR,Cameroon,2006,379
+CMR,Cameroon,2005,389
+CMR,Cameroon,2004,404
+CMR,Cameroon,2003,408
+CMR,Cameroon,2002,409
+CMR,Cameroon,2001,411
+CMR,Cameroon,2000,412
+COD,Democratic Republic of the Congo,2015,260
+COD,Democratic Republic of the Congo,2014,265
+COD,Democratic Republic of the Congo,2013,272
+COD,Democratic Republic of the Congo,2012,276
+COD,Democratic Republic of the Congo,2011,278
+COD,Democratic Republic of the Congo,2010,283
+COD,Democratic Republic of the Congo,2009,291
+COD,Democratic Republic of the Congo,2008,295
+COD,Democratic Republic of the Congo,2007,299
+COD,Democratic Republic of the Congo,2006,307
+COD,Democratic Republic of the Congo,2005,315
+COD,Democratic Republic of the Congo,2004,324
+COD,Democratic Republic of the Congo,2003,333
+COD,Democratic Republic of the Congo,2002,341
+COD,Democratic Republic of the Congo,2001,338
+COD,Democratic Republic of the Congo,2000,342
+COG,"Congo, Rep.",2015,275
+COG,"Congo, Rep.",2014,279
+COG,"Congo, Rep.",2013,278
+COG,"Congo, Rep.",2012,281
+COG,"Congo, Rep.",2011,291
+COG,"Congo, Rep.",2010,300
+COG,"Congo, Rep.",2009,310
+COG,"Congo, Rep.",2008,334
+COG,"Congo, Rep.",2007,351
+COG,"Congo, Rep.",2006,366
+COG,"Congo, Rep.",2005,392
+COG,"Congo, Rep.",2004,407
+COG,"Congo, Rep.",2003,418
+COG,"Congo, Rep.",2002,425
+COG,"Congo, Rep.",2001,420
+COG,"Congo, Rep.",2000,417
+COM,Comoros,2015,227
+COM,Comoros,2014,230
+COM,Comoros,2013,233
+COM,Comoros,2012,236
+COM,Comoros,2011,241
+COM,Comoros,2010,245
+COM,Comoros,2009,251
+COM,Comoros,2008,255
+COM,Comoros,2007,259
+COM,Comoros,2006,262
+COM,Comoros,2005,266
+COM,Comoros,2004,269
+COM,Comoros,2003,271
+COM,Comoros,2002,271
+COM,Comoros,2001,272
+COM,Comoros,2000,272
+CPV,Cabo Verde,2015,124
+CPV,Cabo Verde,2014,126
+CPV,Cabo Verde,2013,129
+CPV,Cabo Verde,2012,133
+CPV,Cabo Verde,2011,136
+CPV,Cabo Verde,2010,138
+CPV,Cabo Verde,2009,139
+CPV,Cabo Verde,2008,142
+CPV,Cabo Verde,2007,146
+CPV,Cabo Verde,2006,150
+CPV,Cabo Verde,2005,157
+CPV,Cabo Verde,2004,159
+CPV,Cabo Verde,2003,160
+CPV,Cabo Verde,2002,162
+CPV,Cabo Verde,2001,164
+CPV,Cabo Verde,2000,167
+DZA,Algeria,2015,96
+DZA,Algeria,2014,98
+DZA,Algeria,2013,100
+DZA,Algeria,2012,101
+DZA,Algeria,2011,103
+DZA,Algeria,2010,104
+DZA,Algeria,2009,107
+DZA,Algeria,2008,108
+DZA,Algeria,2007,111
+DZA,Algeria,2006,115
+DZA,Algeria,2005,119
+DZA,Algeria,2004,125
+DZA,Algeria,2003,133
+DZA,Algeria,2002,135
+DZA,Algeria,2001,139
+DZA,Algeria,2000,142
+ERI,Eritrea,2015,258
+ERI,Eritrea,2014,265
+ERI,Eritrea,2013,271
+ERI,Eritrea,2012,277
+ERI,Eritrea,2011,285
+ERI,Eritrea,2010,293
+ERI,Eritrea,2009,301
+ERI,Eritrea,2008,309
+ERI,Eritrea,2007,317
+ERI,Eritrea,2006,326
+ERI,Eritrea,2005,335
+ERI,Eritrea,2004,342
+ERI,Eritrea,2003,347
+ERI,Eritrea,2002,348
+ERI,Eritrea,2001,348
+ERI,Eritrea,2000,600
+ETH,Ethiopia,2015,225
+ETH,Ethiopia,2014,230
+ETH,Ethiopia,2013,234
+ETH,Ethiopia,2012,240
+ETH,Ethiopia,2011,249
+ETH,Ethiopia,2010,262
+ETH,Ethiopia,2009,278
+ETH,Ethiopia,2008,295
+ETH,Ethiopia,2007,316
+ETH,Ethiopia,2006,339
+ETH,Ethiopia,2005,358
+ETH,Ethiopia,2004,375
+ETH,Ethiopia,2003,386
+ETH,Ethiopia,2002,390
+ETH,Ethiopia,2001,392
+ETH,Ethiopia,2000,406
+GAB,Gabon,2015,228
+GAB,Gabon,2014,235
+GAB,Gabon,2013,251
+GAB,Gabon,2012,269
+GAB,Gabon,2011,282
+GAB,Gabon,2010,288
+GAB,Gabon,2009,300
+GAB,Gabon,2008,304
+GAB,Gabon,2007,305
+GAB,Gabon,2006,308
+GAB,Gabon,2005,326
+GAB,Gabon,2004,338
+GAB,Gabon,2003,335
+GAB,Gabon,2002,331
+GAB,Gabon,2001,325
+GAB,Gabon,2000,317
+GHA,Ghana,2015,245
+GHA,Ghana,2014,248
+GHA,Ghana,2013,250
+GHA,Ghana,2012,255
+GHA,Ghana,2011,263
+GHA,Ghana,2010,269
+GHA,Ghana,2009,276
+GHA,Ghana,2008,283
+GHA,Ghana,2007,291
+GHA,Ghana,2006,298
+GHA,Ghana,2005,303
+GHA,Ghana,2004,307
+GHA,Ghana,2003,309
+GHA,Ghana,2002,310
+GHA,Ghana,2001,310
+GHA,Ghana,2000,310
+GIN,Guinea,2015,277
+GIN,Guinea,2014,290
+GIN,Guinea,2013,275
+GIN,Guinea,2012,279
+GIN,Guinea,2011,282
+GIN,Guinea,2010,286
+GIN,Guinea,2009,294
+GIN,Guinea,2008,300
+GIN,Guinea,2007,304
+GIN,Guinea,2006,316
+GIN,Guinea,2005,329
+GIN,Guinea,2004,339
+GIN,Guinea,2003,345
+GIN,Guinea,2002,345
+GIN,Guinea,2001,341
+GIN,Guinea,2000,329
+GMB,Gambia,2015,265
+GMB,Gambia,2014,267
+GMB,Gambia,2013,266
+GMB,Gambia,2012,269
+GMB,Gambia,2011,275
+GMB,Gambia,2010,282
+GMB,Gambia,2009,283
+GMB,Gambia,2008,283
+GMB,Gambia,2007,282
+GMB,Gambia,2006,284
+GMB,Gambia,2005,290
+GMB,Gambia,2004,294
+GMB,Gambia,2003,297
+GMB,Gambia,2002,299
+GMB,Gambia,2001,301
+GMB,Gambia,2000,304
+GNB,Guinea-Bissau,2015,278
+GNB,Guinea-Bissau,2014,282
+GNB,Guinea-Bissau,2013,281
+GNB,Guinea-Bissau,2012,289
+GNB,Guinea-Bissau,2011,296
+GNB,Guinea-Bissau,2010,298
+GNB,Guinea-Bissau,2009,299
+GNB,Guinea-Bissau,2008,304
+GNB,Guinea-Bissau,2007,307
+GNB,Guinea-Bissau,2006,307
+GNB,Guinea-Bissau,2005,305
+GNB,Guinea-Bissau,2004,303
+GNB,Guinea-Bissau,2003,300
+GNB,Guinea-Bissau,2002,296
+GNB,Guinea-Bissau,2001,293
+GNB,Guinea-Bissau,2000,291
+GNQ,Equatorial Guinea,2015,301
+GNQ,Equatorial Guinea,2014,307
+GNQ,Equatorial Guinea,2013,327
+GNQ,Equatorial Guinea,2012,336
+GNQ,Equatorial Guinea,2011,335
+GNQ,Equatorial Guinea,2010,335
+GNQ,Equatorial Guinea,2009,345
+GNQ,Equatorial Guinea,2008,348
+GNQ,Equatorial Guinea,2007,356
+GNQ,Equatorial Guinea,2006,357
+GNQ,Equatorial Guinea,2005,360
+GNQ,Equatorial Guinea,2004,361
+GNQ,Equatorial Guinea,2003,359
+GNQ,Equatorial Guinea,2002,358
+GNQ,Equatorial Guinea,2001,358
+GNQ,Equatorial Guinea,2000,359
+KEN,Kenya,2015,232
+KEN,Kenya,2014,239
+KEN,Kenya,2013,241
+KEN,Kenya,2012,245
+KEN,Kenya,2011,265
+KEN,Kenya,2010,285
+KEN,Kenya,2009,314
+KEN,Kenya,2008,344
+KEN,Kenya,2007,372
+KEN,Kenya,2006,410
+KEN,Kenya,2005,438
+KEN,Kenya,2004,459
+KEN,Kenya,2003,466
+KEN,Kenya,2002,468
+KEN,Kenya,2001,465
+KEN,Kenya,2000,458
+LBR,Liberia,2015,241
+LBR,Liberia,2014,310
+LBR,Liberia,2013,236
+LBR,Liberia,2012,239
+LBR,Liberia,2011,247
+LBR,Liberia,2010,258
+LBR,Liberia,2009,269
+LBR,Liberia,2008,278
+LBR,Liberia,2007,286
+LBR,Liberia,2006,296
+LBR,Liberia,2005,302
+LBR,Liberia,2004,306
+LBR,Liberia,2003,377
+LBR,Liberia,2002,350
+LBR,Liberia,2001,324
+LBR,Liberia,2000,315
+LSO,Lesotho,2015,498
+LSO,Lesotho,2014,495
+LSO,Lesotho,2013,487
+LSO,Lesotho,2012,478
+LSO,Lesotho,2011,467
+LSO,Lesotho,2010,478
+LSO,Lesotho,2009,493
+LSO,Lesotho,2008,521
+LSO,Lesotho,2007,590
+LSO,Lesotho,2006,620
+LSO,Lesotho,2005,637
+LSO,Lesotho,2004,627
+LSO,Lesotho,2003,608
+LSO,Lesotho,2002,581
+LSO,Lesotho,2001,546
+LSO,Lesotho,2000,507
+MDG,Madagascar,2015,220
+MDG,Madagascar,2014,225
+MDG,Madagascar,2013,230
+MDG,Madagascar,2012,235
+MDG,Madagascar,2011,241
+MDG,Madagascar,2010,247
+MDG,Madagascar,2009,254
+MDG,Madagascar,2008,258
+MDG,Madagascar,2007,261
+MDG,Madagascar,2006,263
+MDG,Madagascar,2005,265
+MDG,Madagascar,2004,267
+MDG,Madagascar,2003,268
+MDG,Madagascar,2002,271
+MDG,Madagascar,2001,276
+MDG,Madagascar,2000,283
+MLI,Mali,2015,277
+MLI,Mali,2014,281
+MLI,Mali,2013,284
+MLI,Mali,2012,280
+MLI,Mali,2011,281
+MLI,Mali,2010,283
+MLI,Mali,2009,285
+MLI,Mali,2008,288
+MLI,Mali,2007,292
+MLI,Mali,2006,298
+MLI,Mali,2005,302
+MLI,Mali,2004,310
+MLI,Mali,2003,316
+MLI,Mali,2002,321
+MLI,Mali,2001,327
+MLI,Mali,2000,335
+MOZ,Mozambique,2015,359
+MOZ,Mozambique,2014,387
+MOZ,Mozambique,2013,402
+MOZ,Mozambique,2012,404
+MOZ,Mozambique,2011,406
+MOZ,Mozambique,2010,409
+MOZ,Mozambique,2009,414
+MOZ,Mozambique,2008,427
+MOZ,Mozambique,2007,444
+MOZ,Mozambique,2006,452
+MOZ,Mozambique,2005,452
+MOZ,Mozambique,2004,450
+MOZ,Mozambique,2003,446
+MOZ,Mozambique,2002,439
+MOZ,Mozambique,2001,433
+MOZ,Mozambique,2000,428
+MRT,Mauritania,2015,204
+MRT,Mauritania,2014,206
+MRT,Mauritania,2013,207
+MRT,Mauritania,2012,208
+MRT,Mauritania,2011,211
+MRT,Mauritania,2010,213
+MRT,Mauritania,2009,214
+MRT,Mauritania,2008,216
+MRT,Mauritania,2007,219
+MRT,Mauritania,2006,221
+MRT,Mauritania,2005,224
+MRT,Mauritania,2004,225
+MRT,Mauritania,2003,226
+MRT,Mauritania,2002,227
+MRT,Mauritania,2001,228
+MRT,Mauritania,2000,229
+MUS,Mauritius,2015,148
+MUS,Mauritius,2014,148
+MUS,Mauritius,2013,145
+MUS,Mauritius,2012,152
+MUS,Mauritius,2011,156
+MUS,Mauritius,2010,162
+MUS,Mauritius,2009,165
+MUS,Mauritius,2008,165
+MUS,Mauritius,2007,160
+MUS,Mauritius,2006,162
+MUS,Mauritius,2005,164
+MUS,Mauritius,2004,164
+MUS,Mauritius,2003,168
+MUS,Mauritius,2002,173
+MUS,Mauritius,2001,172
+MUS,Mauritius,2000,172
+MWI,Malawi,2015,266
+MWI,Malawi,2014,279
+MWI,Malawi,2013,298
+MWI,Malawi,2012,325
+MWI,Malawi,2011,344
+MWI,Malawi,2010,366
+MWI,Malawi,2009,399
+MWI,Malawi,2008,438
+MWI,Malawi,2007,477
+MWI,Malawi,2006,511
+MWI,Malawi,2005,535
+MWI,Malawi,2004,549
+MWI,Malawi,2003,550
+MWI,Malawi,2002,547
+MWI,Malawi,2001,543
+MWI,Malawi,2000,535
+NAM,Namibia,2015,296
+NAM,Namibia,2014,286
+NAM,Namibia,2013,287
+NAM,Namibia,2012,293
+NAM,Namibia,2011,310
+NAM,Namibia,2010,328
+NAM,Namibia,2009,332
+NAM,Namibia,2008,354
+NAM,Namibia,2007,409
+NAM,Namibia,2006,463
+NAM,Namibia,2005,497
+NAM,Namibia,2004,513
+NAM,Namibia,2003,500
+NAM,Namibia,2002,479
+NAM,Namibia,2001,454
+NAM,Namibia,2000,428
+NER,Niger,2015,257
+NER,Niger,2014,258
+NER,Niger,2013,261
+NER,Niger,2012,264
+NER,Niger,2011,267
+NER,Niger,2010,269
+NER,Niger,2009,274
+NER,Niger,2008,277
+NER,Niger,2007,279
+NER,Niger,2006,281
+NER,Niger,2005,285
+NER,Niger,2004,287
+NER,Niger,2003,289
+NER,Niger,2002,291
+NER,Niger,2001,292
+NER,Niger,2000,293
+NGA,Nigeria,2015,355
+NGA,Nigeria,2014,361
+NGA,Nigeria,2013,367
+NGA,Nigeria,2012,373
+NGA,Nigeria,2011,376
+NGA,Nigeria,2010,378
+NGA,Nigeria,2009,380
+NGA,Nigeria,2008,385
+NGA,Nigeria,2007,388
+NGA,Nigeria,2006,395
+NGA,Nigeria,2005,402
+NGA,Nigeria,2004,411
+NGA,Nigeria,2003,415
+NGA,Nigeria,2002,414
+NGA,Nigeria,2001,411
+NGA,Nigeria,2000,407
+RWA,Rwanda,2015,203
+RWA,Rwanda,2014,207
+RWA,Rwanda,2013,212
+RWA,Rwanda,2012,219
+RWA,Rwanda,2011,228
+RWA,Rwanda,2010,239
+RWA,Rwanda,2009,266
+RWA,Rwanda,2008,263
+RWA,Rwanda,2007,282
+RWA,Rwanda,2006,321
+RWA,Rwanda,2005,366
+RWA,Rwanda,2004,399
+RWA,Rwanda,2003,417
+RWA,Rwanda,2002,429
+RWA,Rwanda,2001,456
+RWA,Rwanda,2000,451
+SEN,Senegal,2015,189
+SEN,Senegal,2014,193
+SEN,Senegal,2013,196
+SEN,Senegal,2012,200
+SEN,Senegal,2011,204
+SEN,Senegal,2010,209
+SEN,Senegal,2009,215
+SEN,Senegal,2008,222
+SEN,Senegal,2007,234
+SEN,Senegal,2006,240
+SEN,Senegal,2005,244
+SEN,Senegal,2004,248
+SEN,Senegal,2003,250
+SEN,Senegal,2002,251
+SEN,Senegal,2001,251
+SEN,Senegal,2000,250
+SLE,Sierra Leone,2015,404
+SLE,Sierra Leone,2014,446
+SLE,Sierra Leone,2013,393
+SLE,Sierra Leone,2012,395
+SLE,Sierra Leone,2011,403
+SLE,Sierra Leone,2010,415
+SLE,Sierra Leone,2009,429
+SLE,Sierra Leone,2008,442
+SLE,Sierra Leone,2007,453
+SLE,Sierra Leone,2006,467
+SLE,Sierra Leone,2005,482
+SLE,Sierra Leone,2004,496
+SLE,Sierra Leone,2003,506
+SLE,Sierra Leone,2002,513
+SLE,Sierra Leone,2001,520
+SLE,Sierra Leone,2000,533
+SSD,South Sudan,2015,328
+SSD,South Sudan,2014,343
+SSD,South Sudan,2013,343
+SSD,South Sudan,2012,341
+SSD,South Sudan,2011,349
+SSD,South Sudan,2010,354
+SSD,South Sudan,2009,368
+SSD,South Sudan,2008,377
+SSD,South Sudan,2007,382
+SSD,South Sudan,2006,384
+SSD,South Sudan,2005,385
+SSD,South Sudan,2004,384
+SSD,South Sudan,2003,383
+SSD,South Sudan,2002,382
+SSD,South Sudan,2001,380
+SSD,South Sudan,2000,380
+STP,Sao Tome and Principe,2015,192
+STP,Sao Tome and Principe,2014,193
+STP,Sao Tome and Principe,2013,195
+STP,Sao Tome and Principe,2012,198
+STP,Sao Tome and Principe,2011,202
+STP,Sao Tome and Principe,2010,205
+STP,Sao Tome and Principe,2009,212
+STP,Sao Tome and Principe,2008,217
+STP,Sao Tome and Principe,2007,220
+STP,Sao Tome and Principe,2006,223
+STP,Sao Tome and Principe,2005,227
+STP,Sao Tome and Principe,2004,229
+STP,Sao Tome and Principe,2003,227
+STP,Sao Tome and Principe,2002,225
+STP,Sao Tome and Principe,2001,225
+STP,Sao Tome and Principe,2000,227
+SWZ,Swaziland,2015,398
+SWZ,Swaziland,2014,408
+SWZ,Swaziland,2013,421
+SWZ,Swaziland,2012,443
+SWZ,Swaziland,2011,469
+SWZ,Swaziland,2010,503
+SWZ,Swaziland,2009,524
+SWZ,Swaziland,2008,554
+SWZ,Swaziland,2007,587
+SWZ,Swaziland,2006,628
+SWZ,Swaziland,2005,652
+SWZ,Swaziland,2004,650
+SWZ,Swaziland,2003,633
+SWZ,Swaziland,2002,610
+SWZ,Swaziland,2001,580
+SWZ,Swaziland,2000,540
+SYC,Seychelles,2015,166
+SYC,Seychelles,2014,168
+SYC,Seychelles,2013,171
+SYC,Seychelles,2012,174
+SYC,Seychelles,2011,177
+SYC,Seychelles,2010,181
+SYC,Seychelles,2009,183
+SYC,Seychelles,2008,185
+SYC,Seychelles,2007,185
+SYC,Seychelles,2006,185
+SYC,Seychelles,2005,185
+SYC,Seychelles,2004,186
+SYC,Seychelles,2003,185
+SYC,Seychelles,2002,185
+SYC,Seychelles,2001,187
+SYC,Seychelles,2000,188
+TCD,Chad,2015,367
+TCD,Chad,2014,374
+TCD,Chad,2013,370
+TCD,Chad,2012,371
+TCD,Chad,2011,370
+TCD,Chad,2010,373
+TCD,Chad,2009,380
+TCD,Chad,2008,400
+TCD,Chad,2007,400
+TCD,Chad,2006,419
+TCD,Chad,2005,412
+TCD,Chad,2004,413
+TCD,Chad,2003,412
+TCD,Chad,2002,412
+TCD,Chad,2001,409
+TCD,Chad,2000,413
+TGO,Togo,2015,271
+TGO,Togo,2014,274
+TGO,Togo,2013,276
+TGO,Togo,2012,281
+TGO,Togo,2011,291
+TGO,Togo,2010,306
+TGO,Togo,2009,321
+TGO,Togo,2008,330
+TGO,Togo,2007,331
+TGO,Togo,2006,332
+TGO,Togo,2005,341
+TGO,Togo,2004,339
+TGO,Togo,2003,338
+TGO,Togo,2002,334
+TGO,Togo,2001,328
+TGO,Togo,2000,322
+TZA,United Republic of Tanzania,2015,270
+TZA,United Republic of Tanzania,2014,282
+TZA,United Republic of Tanzania,2013,298
+TZA,United Republic of Tanzania,2012,325
+TZA,United Republic of Tanzania,2011,328
+TZA,United Republic of Tanzania,2010,343
+TZA,United Republic of Tanzania,2009,357
+TZA,United Republic of Tanzania,2008,367
+TZA,United Republic of Tanzania,2007,401
+TZA,United Republic of Tanzania,2006,427
+TZA,United Republic of Tanzania,2005,441
+TZA,United Republic of Tanzania,2004,448
+TZA,United Republic of Tanzania,2003,453
+TZA,United Republic of Tanzania,2002,456
+TZA,United Republic of Tanzania,2001,458
+TZA,United Republic of Tanzania,2000,458
+UGA,Uganda,2015,293
+UGA,Uganda,2014,304
+UGA,Uganda,2013,316
+UGA,Uganda,2012,335
+UGA,Uganda,2011,348
+UGA,Uganda,2010,364
+UGA,Uganda,2009,383
+UGA,Uganda,2008,407
+UGA,Uganda,2007,416
+UGA,Uganda,2006,418
+UGA,Uganda,2005,448
+UGA,Uganda,2004,480
+UGA,Uganda,2003,494
+UGA,Uganda,2002,510
+UGA,Uganda,2001,523
+UGA,Uganda,2000,536
+ZAF,South Africa,2015,305
+ZAF,South Africa,2014,316
+ZAF,South Africa,2013,335
+ZAF,South Africa,2012,361
+ZAF,South Africa,2011,397
+ZAF,South Africa,2010,416
+ZAF,South Africa,2009,435
+ZAF,South Africa,2008,458
+ZAF,South Africa,2007,475
+ZAF,South Africa,2006,477
+ZAF,South Africa,2005,474
+ZAF,South Africa,2004,459
+ZAF,South Africa,2003,437
+ZAF,South Africa,2002,412
+ZAF,South Africa,2001,387
+ZAF,South Africa,2000,362
+ZMB,Zambia,2015,295
+ZMB,Zambia,2014,299
+ZMB,Zambia,2013,311
+ZMB,Zambia,2012,325
+ZMB,Zambia,2011,342
+ZMB,Zambia,2010,364
+ZMB,Zambia,2009,396
+ZMB,Zambia,2008,439
+ZMB,Zambia,2007,500
+ZMB,Zambia,2006,532
+ZMB,Zambia,2005,556
+ZMB,Zambia,2004,575
+ZMB,Zambia,2003,593
+ZMB,Zambia,2002,594
+ZMB,Zambia,2001,594
+ZMB,Zambia,2000,594
+ZWE,Zimbabwe,2015,346
+ZWE,Zimbabwe,2014,358
+ZWE,Zimbabwe,2013,383
+ZWE,Zimbabwe,2012,407
+ZWE,Zimbabwe,2011,440
+ZWE,Zimbabwe,2010,500
+ZWE,Zimbabwe,2009,554
+ZWE,Zimbabwe,2008,596
+ZWE,Zimbabwe,2007,631
+ZWE,Zimbabwe,2006,660
+ZWE,Zimbabwe,2005,681
+ZWE,Zimbabwe,2004,694
+ZWE,Zimbabwe,2003,697
+ZWE,Zimbabwe,2002,695
+ZWE,Zimbabwe,2001,688
+ZWE,Zimbabwe,2000,675
+ARG,Argentina,2015,113
+ARG,Argentina,2014,113
+ARG,Argentina,2013,116
+ARG,Argentina,2012,118
+ARG,Argentina,2011,118
+ARG,Argentina,2010,119
+ARG,Argentina,2009,123
+ARG,Argentina,2008,123
+ARG,Argentina,2007,126
+ARG,Argentina,2006,124
+ARG,Argentina,2005,125
+ARG,Argentina,2004,128
+ARG,Argentina,2003,134
+ARG,Argentina,2002,137
+ARG,Argentina,2001,138
+ARG,Argentina,2000,139
+ATG,Antigua and Barbuda,2015,122
+ATG,Antigua and Barbuda,2014,127
+ATG,Antigua and Barbuda,2013,127
+ATG,Antigua and Barbuda,2012,127
+ATG,Antigua and Barbuda,2011,128
+ATG,Antigua and Barbuda,2010,135
+ATG,Antigua and Barbuda,2009,138
+ATG,Antigua and Barbuda,2008,147
+ATG,Antigua and Barbuda,2007,149
+ATG,Antigua and Barbuda,2006,155
+ATG,Antigua and Barbuda,2005,156
+ATG,Antigua and Barbuda,2004,153
+ATG,Antigua and Barbuda,2003,151
+ATG,Antigua and Barbuda,2002,149
+ATG,Antigua and Barbuda,2001,154
+ATG,Antigua and Barbuda,2000,157
+BHS,Bahamas,2015,161
+BHS,Bahamas,2014,168
+BHS,Bahamas,2013,166
+BHS,Bahamas,2012,163
+BHS,Bahamas,2011,158
+BHS,Bahamas,2010,159
+BHS,Bahamas,2009,166
+BHS,Bahamas,2008,168
+BHS,Bahamas,2007,171
+BHS,Bahamas,2006,177
+BHS,Bahamas,2005,180
+BHS,Bahamas,2004,187
+BHS,Bahamas,2003,203
+BHS,Bahamas,2002,206
+BHS,Bahamas,2001,204
+BHS,Bahamas,2000,202
+BLZ,Belize,2015,182
+BLZ,Belize,2014,183
+BLZ,Belize,2013,184
+BLZ,Belize,2012,183
+BLZ,Belize,2011,182
+BLZ,Belize,2010,182
+BLZ,Belize,2009,183
+BLZ,Belize,2008,183
+BLZ,Belize,2007,181
+BLZ,Belize,2006,185
+BLZ,Belize,2005,190
+BLZ,Belize,2004,195
+BLZ,Belize,2003,199
+BLZ,Belize,2002,200
+BLZ,Belize,2001,203
+BLZ,Belize,2000,198
+BOL,Bolivia (Plurinational State of),2015,185
+BOL,Bolivia (Plurinational State of),2014,188
+BOL,Bolivia (Plurinational State of),2013,192
+BOL,Bolivia (Plurinational State of),2012,195
+BOL,Bolivia (Plurinational State of),2011,198
+BOL,Bolivia (Plurinational State of),2010,202
+BOL,Bolivia (Plurinational State of),2009,207
+BOL,Bolivia (Plurinational State of),2008,211
+BOL,Bolivia (Plurinational State of),2007,215
+BOL,Bolivia (Plurinational State of),2006,219
+BOL,Bolivia (Plurinational State of),2005,222
+BOL,Bolivia (Plurinational State of),2004,226
+BOL,Bolivia (Plurinational State of),2003,230
+BOL,Bolivia (Plurinational State of),2002,234
+BOL,Bolivia (Plurinational State of),2001,238
+BOL,Bolivia (Plurinational State of),2000,243
+BRA,Brazil,2015,145
+BRA,Brazil,2014,145
+BRA,Brazil,2013,148
+BRA,Brazil,2012,150
+BRA,Brazil,2011,153
+BRA,Brazil,2010,154
+BRA,Brazil,2009,156
+BRA,Brazil,2008,157
+BRA,Brazil,2007,158
+BRA,Brazil,2006,160
+BRA,Brazil,2005,162
+BRA,Brazil,2004,169
+BRA,Brazil,2003,172
+BRA,Brazil,2002,176
+BRA,Brazil,2001,180
+BRA,Brazil,2000,184
+BRB,Barbados,2015,101
+BRB,Barbados,2014,101
+BRB,Barbados,2013,101
+BRB,Barbados,2012,108
+BRB,Barbados,2011,106
+BRB,Barbados,2010,108
+BRB,Barbados,2009,110
+BRB,Barbados,2008,112
+BRB,Barbados,2007,112
+BRB,Barbados,2006,113
+BRB,Barbados,2005,114
+BRB,Barbados,2004,116
+BRB,Barbados,2003,123
+BRB,Barbados,2002,126
+BRB,Barbados,2001,127
+BRB,Barbados,2000,128
+CAN,Canada,2015,64
+CAN,Canada,2014,65
+CAN,Canada,2013,66
+CAN,Canada,2012,68
+CAN,Canada,2011,67
+CAN,Canada,2010,69
+CAN,Canada,2009,71
+CAN,Canada,2008,73
+CAN,Canada,2007,74
+CAN,Canada,2006,74
+CAN,Canada,2005,76
+CAN,Canada,2004,76
+CAN,Canada,2003,77
+CAN,Canada,2002,78
+CAN,Canada,2001,79
+CAN,Canada,2000,81
+CHL,Chile,2015,88
+CHL,Chile,2014,88
+CHL,Chile,2013,90
+CHL,Chile,2012,89
+CHL,Chile,2011,90
+CHL,Chile,2010,94
+CHL,Chile,2009,94
+CHL,Chile,2008,91
+CHL,Chile,2007,93
+CHL,Chile,2006,93
+CHL,Chile,2005,95
+CHL,Chile,2004,98
+CHL,Chile,2003,100
+CHL,Chile,2002,100
+CHL,Chile,2001,106
+CHL,Chile,2000,103
+COL,Colombia,2015,138
+COL,Colombia,2014,139
+COL,Colombia,2013,139
+COL,Colombia,2012,140
+COL,Colombia,2011,140
+COL,Colombia,2010,146
+COL,Colombia,2009,147
+COL,Colombia,2008,142
+COL,Colombia,2007,141
+COL,Colombia,2006,146
+COL,Colombia,2005,144
+COL,Colombia,2004,152
+COL,Colombia,2003,155
+COL,Colombia,2002,169
+COL,Colombia,2001,170
+COL,Colombia,2000,171
+CRI,Costa Rica,2015,97
+CRI,Costa Rica,2014,95
+CRI,Costa Rica,2013,97
+CRI,Costa Rica,2012,99
+CRI,Costa Rica,2011,100
+CRI,Costa Rica,2010,106
+CRI,Costa Rica,2009,96
+CRI,Costa Rica,2008,97
+CRI,Costa Rica,2007,91
+CRI,Costa Rica,2006,104
+CRI,Costa Rica,2005,96
+CRI,Costa Rica,2004,102
+CRI,Costa Rica,2003,101
+CRI,Costa Rica,2002,100
+CRI,Costa Rica,2001,101
+CRI,Costa Rica,2000,100
+CUB,Cuba,2015,94
+CUB,Cuba,2014,95
+CUB,Cuba,2013,96
+CUB,Cuba,2012,96
+CUB,Cuba,2011,92
+CUB,Cuba,2010,97
+CUB,Cuba,2009,99
+CUB,Cuba,2008,100
+CUB,Cuba,2007,102
+CUB,Cuba,2006,103
+CUB,Cuba,2005,110
+CUB,Cuba,2004,109
+CUB,Cuba,2003,112
+CUB,Cuba,2002,112
+CUB,Cuba,2001,119
+CUB,Cuba,2000,121
+DOM,Dominican Republic,2015,163
+DOM,Dominican Republic,2014,166
+DOM,Dominican Republic,2013,168
+DOM,Dominican Republic,2012,171
+DOM,Dominican Republic,2011,175
+DOM,Dominican Republic,2010,180
+DOM,Dominican Republic,2009,185
+DOM,Dominican Republic,2008,192
+DOM,Dominican Republic,2007,201
+DOM,Dominican Republic,2006,207
+DOM,Dominican Republic,2005,213
+DOM,Dominican Republic,2004,218
+DOM,Dominican Republic,2003,215
+DOM,Dominican Republic,2002,215
+DOM,Dominican Republic,2001,214
+DOM,Dominican Republic,2000,212
+ECU,Ecuador,2015,117
+ECU,Ecuador,2014,119
+ECU,Ecuador,2013,122
+ECU,Ecuador,2012,127
+ECU,Ecuador,2011,130
+ECU,Ecuador,2010,134
+ECU,Ecuador,2009,137
+ECU,Ecuador,2008,141
+ECU,Ecuador,2007,141
+ECU,Ecuador,2006,144
+ECU,Ecuador,2005,149
+ECU,Ecuador,2004,145
+ECU,Ecuador,2003,146
+ECU,Ecuador,2002,153
+ECU,Ecuador,2001,154
+ECU,Ecuador,2000,160
+GRD,Grenada,2015,141
+GRD,Grenada,2014,143
+GRD,Grenada,2013,145
+GRD,Grenada,2012,147
+GRD,Grenada,2011,150
+GRD,Grenada,2010,154
+GRD,Grenada,2009,158
+GRD,Grenada,2008,162
+GRD,Grenada,2007,164
+GRD,Grenada,2006,167
+GRD,Grenada,2005,171
+GRD,Grenada,2004,186
+GRD,Grenada,2003,175
+GRD,Grenada,2002,175
+GRD,Grenada,2001,178
+GRD,Grenada,2000,182
+GTM,Guatemala,2015,165
+GTM,Guatemala,2014,169
+GTM,Guatemala,2013,172
+GTM,Guatemala,2012,173
+GTM,Guatemala,2011,180
+GTM,Guatemala,2010,186
+GTM,Guatemala,2009,191
+GTM,Guatemala,2008,186
+GTM,Guatemala,2007,191
+GTM,Guatemala,2006,205
+GTM,Guatemala,2005,211
+GTM,Guatemala,2004,206
+GTM,Guatemala,2003,209
+GTM,Guatemala,2002,206
+GTM,Guatemala,2001,214
+GTM,Guatemala,2000,220
+GUY,Guyana,2015,264
+GUY,Guyana,2014,264
+GUY,Guyana,2013,263
+GUY,Guyana,2012,272
+GUY,Guyana,2011,263
+GUY,Guyana,2010,258
+GUY,Guyana,2009,252
+GUY,Guyana,2008,249
+GUY,Guyana,2007,257
+GUY,Guyana,2006,267
+GUY,Guyana,2005,267
+GUY,Guyana,2004,270
+GUY,Guyana,2003,277
+GUY,Guyana,2002,280
+GUY,Guyana,2001,273
+GUY,Guyana,2000,282
+HND,Honduras,2015,147
+HND,Honduras,2014,148
+HND,Honduras,2013,149
+HND,Honduras,2012,151
+HND,Honduras,2011,153
+HND,Honduras,2010,156
+HND,Honduras,2009,156
+HND,Honduras,2008,158
+HND,Honduras,2007,160
+HND,Honduras,2006,162
+HND,Honduras,2005,164
+HND,Honduras,2004,166
+HND,Honduras,2003,170
+HND,Honduras,2002,172
+HND,Honduras,2001,174
+HND,Honduras,2000,176
+HTI,Haiti,2015,245
+HTI,Haiti,2014,248
+HTI,Haiti,2013,253
+HTI,Haiti,2012,256
+HTI,Haiti,2011,256
+HTI,Haiti,2010,683
+HTI,Haiti,2009,257
+HTI,Haiti,2008,266
+HTI,Haiti,2007,272
+HTI,Haiti,2006,282
+HTI,Haiti,2005,290
+HTI,Haiti,2004,318
+HTI,Haiti,2003,297
+HTI,Haiti,2002,300
+HTI,Haiti,2001,303
+HTI,Haiti,2000,306
+JAM,Jamaica,2015,133
+JAM,Jamaica,2014,132
+JAM,Jamaica,2013,135
+JAM,Jamaica,2012,137
+JAM,Jamaica,2011,139
+JAM,Jamaica,2010,139
+JAM,Jamaica,2009,143
+JAM,Jamaica,2008,147
+JAM,Jamaica,2007,151
+JAM,Jamaica,2006,154
+JAM,Jamaica,2005,164
+JAM,Jamaica,2004,168
+JAM,Jamaica,2003,170
+JAM,Jamaica,2002,171
+JAM,Jamaica,2001,175
+JAM,Jamaica,2000,173
+LCA,Saint Lucia,2015,148
+LCA,Saint Lucia,2014,145
+LCA,Saint Lucia,2013,149
+LCA,Saint Lucia,2012,153
+LCA,Saint Lucia,2011,153
+LCA,Saint Lucia,2010,153
+LCA,Saint Lucia,2009,152
+LCA,Saint Lucia,2008,152
+LCA,Saint Lucia,2007,153
+LCA,Saint Lucia,2006,155
+LCA,Saint Lucia,2005,158
+LCA,Saint Lucia,2004,162
+LCA,Saint Lucia,2003,169
+LCA,Saint Lucia,2002,176
+LCA,Saint Lucia,2001,181
+LCA,Saint Lucia,2000,186
+MEX,Mexico,2015,128
+MEX,Mexico,2014,129
+MEX,Mexico,2013,127
+MEX,Mexico,2012,131
+MEX,Mexico,2011,133
+MEX,Mexico,2010,136
+MEX,Mexico,2009,136
+MEX,Mexico,2008,133
+MEX,Mexico,2007,129
+MEX,Mexico,2006,131
+MEX,Mexico,2005,134
+MEX,Mexico,2004,132
+MEX,Mexico,2003,136
+MEX,Mexico,2002,136
+MEX,Mexico,2001,135
+MEX,Mexico,2000,138
+NIC,Nicaragua,2015,148
+NIC,Nicaragua,2014,150
+NIC,Nicaragua,2013,153
+NIC,Nicaragua,2012,155
+NIC,Nicaragua,2011,158
+NIC,Nicaragua,2010,160
+NIC,Nicaragua,2009,162
+NIC,Nicaragua,2008,165
+NIC,Nicaragua,2007,170
+NIC,Nicaragua,2006,174
+NIC,Nicaragua,2005,179
+NIC,Nicaragua,2004,185
+NIC,Nicaragua,2003,189
+NIC,Nicaragua,2002,192
+NIC,Nicaragua,2001,195
+NIC,Nicaragua,2000,197
+PAN,Panama,2015,112
+PAN,Panama,2014,111
+PAN,Panama,2013,114
+PAN,Panama,2012,116
+PAN,Panama,2011,117
+PAN,Panama,2010,117
+PAN,Panama,2009,122
+PAN,Panama,2008,122
+PAN,Panama,2007,119
+PAN,Panama,2006,119
+PAN,Panama,2005,116
+PAN,Panama,2004,117
+PAN,Panama,2003,120
+PAN,Panama,2002,120
+PAN,Panama,2001,120
+PAN,Panama,2000,120
+PER,Peru,2015,125
+PER,Peru,2014,127
+PER,Peru,2013,128
+PER,Peru,2012,129
+PER,Peru,2011,130
+PER,Peru,2010,132
+PER,Peru,2009,135
+PER,Peru,2008,136
+PER,Peru,2007,139
+PER,Peru,2006,141
+PER,Peru,2005,143
+PER,Peru,2004,145
+PER,Peru,2003,148
+PER,Peru,2002,150
+PER,Peru,2001,153
+PER,Peru,2000,155
+PRY,Paraguay,2015,146
+PRY,Paraguay,2014,147
+PRY,Paraguay,2013,148
+PRY,Paraguay,2012,149
+PRY,Paraguay,2011,150
+PRY,Paraguay,2010,152
+PRY,Paraguay,2009,154
+PRY,Paraguay,2008,157
+PRY,Paraguay,2007,159
+PRY,Paraguay,2006,161
+PRY,Paraguay,2005,164
+PRY,Paraguay,2004,165
+PRY,Paraguay,2003,166
+PRY,Paraguay,2002,167
+PRY,Paraguay,2001,169
+PRY,Paraguay,2000,171
+SLV,El Salvador,2015,180
+SLV,El Salvador,2014,182
+SLV,El Salvador,2013,184
+SLV,El Salvador,2012,186
+SLV,El Salvador,2011,189
+SLV,El Salvador,2010,192
+SLV,El Salvador,2009,197
+SLV,El Salvador,2008,198
+SLV,El Salvador,2007,200
+SLV,El Salvador,2006,203
+SLV,El Salvador,2005,206
+SLV,El Salvador,2004,209
+SLV,El Salvador,2003,211
+SLV,El Salvador,2002,213
+SLV,El Salvador,2001,222
+SLV,El Salvador,2000,218
+SUR,Suriname,2015,182
+SUR,Suriname,2014,184
+SUR,Suriname,2013,186
+SUR,Suriname,2012,188
+SUR,Suriname,2011,191
+SUR,Suriname,2010,194
+SUR,Suriname,2009,197
+SUR,Suriname,2008,200
+SUR,Suriname,2007,200
+SUR,Suriname,2006,203
+SUR,Suriname,2005,207
+SUR,Suriname,2004,216
+SUR,Suriname,2003,222
+SUR,Suriname,2002,225
+SUR,Suriname,2001,224
+SUR,Suriname,2000,222
+TTO,Trinidad and Tobago,2015,173
+TTO,Trinidad and Tobago,2014,174
+TTO,Trinidad and Tobago,2013,177
+TTO,Trinidad and Tobago,2012,179
+TTO,Trinidad and Tobago,2011,180
+TTO,Trinidad and Tobago,2010,179
+TTO,Trinidad and Tobago,2009,185
+TTO,Trinidad and Tobago,2008,195
+TTO,Trinidad and Tobago,2007,188
+TTO,Trinidad and Tobago,2006,189
+TTO,Trinidad and Tobago,2005,195
+TTO,Trinidad and Tobago,2004,196
+TTO,Trinidad and Tobago,2003,199
+TTO,Trinidad and Tobago,2002,195
+TTO,Trinidad and Tobago,2001,204
+TTO,Trinidad and Tobago,2000,202
+URY,Uruguay,2015,114
+URY,Uruguay,2014,114
+URY,Uruguay,2013,117
+URY,Uruguay,2012,118
+URY,Uruguay,2011,117
+URY,Uruguay,2010,118
+URY,Uruguay,2009,118
+URY,Uruguay,2008,119
+URY,Uruguay,2007,124
+URY,Uruguay,2006,118
+URY,Uruguay,2005,125
+URY,Uruguay,2004,125
+URY,Uruguay,2003,125
+URY,Uruguay,2002,129
+URY,Uruguay,2001,127
+URY,Uruguay,2000,134
+USA,United States of America,2015,110
+USA,United States of America,2014,106
+USA,United States of America,2013,105
+USA,United States of America,2012,105
+USA,United States of America,2011,106
+USA,United States of America,2010,105
+USA,United States of America,2009,108
+USA,United States of America,2008,108
+USA,United States of America,2007,110
+USA,United States of America,2006,113
+USA,United States of America,2005,112
+USA,United States of America,2004,111
+USA,United States of America,2003,114
+USA,United States of America,2002,115
+USA,United States of America,2001,116
+USA,United States of America,2000,114
+VCT,Saint Vincent and the Grenadines,2015,164
+VCT,Saint Vincent and the Grenadines,2014,170
+VCT,Saint Vincent and the Grenadines,2013,174
+VCT,Saint Vincent and the Grenadines,2012,174
+VCT,Saint Vincent and the Grenadines,2011,167
+VCT,Saint Vincent and the Grenadines,2010,163
+VCT,Saint Vincent and the Grenadines,2009,162
+VCT,Saint Vincent and the Grenadines,2008,169
+VCT,Saint Vincent and the Grenadines,2007,173
+VCT,Saint Vincent and the Grenadines,2006,179
+VCT,Saint Vincent and the Grenadines,2005,182
+VCT,Saint Vincent and the Grenadines,2004,188
+VCT,Saint Vincent and the Grenadines,2003,192
+VCT,Saint Vincent and the Grenadines,2002,196
+VCT,Saint Vincent and the Grenadines,2001,195
+VCT,Saint Vincent and the Grenadines,2000,196
+VEN,Venezuela (Bolivarian Republic of),2015,158
+VEN,Venezuela (Bolivarian Republic of),2014,159
+VEN,Venezuela (Bolivarian Republic of),2013,159
+VEN,Venezuela (Bolivarian Republic of),2012,163
+VEN,Venezuela (Bolivarian Republic of),2011,160
+VEN,Venezuela (Bolivarian Republic of),2010,162
+VEN,Venezuela (Bolivarian Republic of),2009,170
+VEN,Venezuela (Bolivarian Republic of),2008,173
+VEN,Venezuela (Bolivarian Republic of),2007,170
+VEN,Venezuela (Bolivarian Republic of),2006,168
+VEN,Venezuela (Bolivarian Republic of),2005,164
+VEN,Venezuela (Bolivarian Republic of),2004,168
+VEN,Venezuela (Bolivarian Republic of),2003,180
+VEN,Venezuela (Bolivarian Republic of),2002,175
+VEN,Venezuela (Bolivarian Republic of),2001,175
+VEN,Venezuela (Bolivarian Republic of),2000,173
+AFG,Afghanistan,2015,233
+AFG,Afghanistan,2014,234
+AFG,Afghanistan,2013,235
+AFG,Afghanistan,2012,242
+AFG,Afghanistan,2011,248
+AFG,Afghanistan,2010,255
+AFG,Afghanistan,2009,260
+AFG,Afghanistan,2008,265
+AFG,Afghanistan,2007,273
+AFG,Afghanistan,2006,276
+AFG,Afghanistan,2005,277
+AFG,Afghanistan,2004,282
+AFG,Afghanistan,2003,286
+AFG,Afghanistan,2002,292
+AFG,Afghanistan,2001,307
+AFG,Afghanistan,2000,316
+ARE,United Arab Emirates,2015,75
+ARE,United Arab Emirates,2014,76
+ARE,United Arab Emirates,2013,78
+ARE,United Arab Emirates,2012,79
+ARE,United Arab Emirates,2011,80
+ARE,United Arab Emirates,2010,81
+ARE,United Arab Emirates,2009,83
+ARE,United Arab Emirates,2008,85
+ARE,United Arab Emirates,2007,86
+ARE,United Arab Emirates,2006,88
+ARE,United Arab Emirates,2005,91
+ARE,United Arab Emirates,2004,94
+ARE,United Arab Emirates,2003,98
+ARE,United Arab Emirates,2002,101
+ARE,United Arab Emirates,2001,104
+ARE,United Arab Emirates,2000,107
+BHR,Bahrain,2015,59
+BHR,Bahrain,2014,62
+BHR,Bahrain,2013,63
+BHR,Bahrain,2012,66
+BHR,Bahrain,2011,66
+BHR,Bahrain,2010,66
+BHR,Bahrain,2009,69
+BHR,Bahrain,2008,73
+BHR,Bahrain,2007,80
+BHR,Bahrain,2006,89
+BHR,Bahrain,2005,83
+BHR,Bahrain,2004,94
+BHR,Bahrain,2003,92
+BHR,Bahrain,2002,99
+BHR,Bahrain,2001,98
+BHR,Bahrain,2000,101
+DJI,Djibouti,2015,248
+DJI,Djibouti,2014,256
+DJI,Djibouti,2013,255
+DJI,Djibouti,2012,260
+DJI,Djibouti,2011,266
+DJI,Djibouti,2010,271
+DJI,Djibouti,2009,279
+DJI,Djibouti,2008,291
+DJI,Djibouti,2007,298
+DJI,Djibouti,2006,308
+DJI,Djibouti,2005,314
+DJI,Djibouti,2004,323
+DJI,Djibouti,2003,325
+DJI,Djibouti,2002,327
+DJI,Djibouti,2001,325
+DJI,Djibouti,2000,322
+EGY,Egypt,2015,166
+EGY,Egypt,2014,165
+EGY,Egypt,2013,167
+EGY,Egypt,2012,174
+EGY,Egypt,2011,175
+EGY,Egypt,2010,178
+EGY,Egypt,2009,178
+EGY,Egypt,2008,174
+EGY,Egypt,2007,172
+EGY,Egypt,2006,174
+EGY,Egypt,2005,172
+EGY,Egypt,2004,173
+EGY,Egypt,2003,175
+EGY,Egypt,2002,174
+EGY,Egypt,2001,173
+EGY,Egypt,2000,166
+IRN,Iran (Islamic Republic of),2015,82
+IRN,Iran (Islamic Republic of),2014,83
+IRN,Iran (Islamic Republic of),2013,84
+IRN,Iran (Islamic Republic of),2012,87
+IRN,Iran (Islamic Republic of),2011,95
+IRN,Iran (Islamic Republic of),2010,107
+IRN,Iran (Islamic Republic of),2009,122
+IRN,Iran (Islamic Republic of),2008,134
+IRN,Iran (Islamic Republic of),2007,138
+IRN,Iran (Islamic Republic of),2006,140
+IRN,Iran (Islamic Republic of),2005,141
+IRN,Iran (Islamic Republic of),2004,142
+IRN,Iran (Islamic Republic of),2003,159
+IRN,Iran (Islamic Republic of),2002,147
+IRN,Iran (Islamic Republic of),2001,150
+IRN,Iran (Islamic Republic of),2000,153
+IRQ,Iraq,2015,180
+IRQ,Iraq,2014,192
+IRQ,Iraq,2013,162
+IRQ,Iraq,2012,145
+IRQ,Iraq,2011,144
+IRQ,Iraq,2010,144
+IRQ,Iraq,2009,150
+IRQ,Iraq,2008,169
+IRQ,Iraq,2007,228
+IRQ,Iraq,2006,250
+IRQ,Iraq,2005,210
+IRQ,Iraq,2004,202
+IRQ,Iraq,2003,213
+IRQ,Iraq,2002,140
+IRQ,Iraq,2001,141
+IRQ,Iraq,2000,148
+JOR,Jordan,2015,111
+JOR,Jordan,2014,113
+JOR,Jordan,2013,113
+JOR,Jordan,2012,114
+JOR,Jordan,2011,115
+JOR,Jordan,2010,116
+JOR,Jordan,2009,117
+JOR,Jordan,2008,119
+JOR,Jordan,2007,120
+JOR,Jordan,2006,122
+JOR,Jordan,2005,127
+JOR,Jordan,2004,125
+JOR,Jordan,2003,127
+JOR,Jordan,2002,129
+JOR,Jordan,2001,131
+JOR,Jordan,2000,133
+KWT,Kuwait,2015,80
+KWT,Kuwait,2014,81
+KWT,Kuwait,2013,82
+KWT,Kuwait,2012,83
+KWT,Kuwait,2011,84
+KWT,Kuwait,2010,84
+KWT,Kuwait,2009,85
+KWT,Kuwait,2008,85
+KWT,Kuwait,2007,86
+KWT,Kuwait,2006,87
+KWT,Kuwait,2005,88
+KWT,Kuwait,2004,89
+KWT,Kuwait,2003,90
+KWT,Kuwait,2002,91
+KWT,Kuwait,2001,92
+KWT,Kuwait,2000,94
+LBN,Lebanon,2015,98
+LBN,Lebanon,2014,99
+LBN,Lebanon,2013,98
+LBN,Lebanon,2012,95
+LBN,Lebanon,2011,111
+LBN,Lebanon,2010,95
+LBN,Lebanon,2009,96
+LBN,Lebanon,2008,99
+LBN,Lebanon,2007,99
+LBN,Lebanon,2006,116
+LBN,Lebanon,2005,103
+LBN,Lebanon,2004,105
+LBN,Lebanon,2003,107
+LBN,Lebanon,2002,110
+LBN,Lebanon,2001,112
+LBN,Lebanon,2000,114
+LBY,Libya,2015,147
+LBY,Libya,2014,137
+LBY,Libya,2013,126
+LBY,Libya,2012,126
+LBY,Libya,2011,156
+LBY,Libya,2010,128
+LBY,Libya,2009,130
+LBY,Libya,2008,131
+LBY,Libya,2007,133
+LBY,Libya,2006,135
+LBY,Libya,2005,138
+LBY,Libya,2004,141
+LBY,Libya,2003,143
+LBY,Libya,2002,145
+LBY,Libya,2001,146
+LBY,Libya,2000,147
+MAR,Morocco,2015,70
+MAR,Morocco,2014,72
+MAR,Morocco,2013,73
+MAR,Morocco,2012,75
+MAR,Morocco,2011,78
+MAR,Morocco,2010,82
+MAR,Morocco,2009,87
+MAR,Morocco,2008,92
+MAR,Morocco,2007,97
+MAR,Morocco,2006,106
+MAR,Morocco,2005,116
+MAR,Morocco,2004,129
+MAR,Morocco,2003,139
+MAR,Morocco,2002,146
+MAR,Morocco,2001,152
+MAR,Morocco,2000,159
+OMN,Oman,2015,98
+OMN,Oman,2014,100
+OMN,Oman,2013,101
+OMN,Oman,2012,103
+OMN,Oman,2011,105
+OMN,Oman,2010,107
+OMN,Oman,2009,108
+OMN,Oman,2008,110
+OMN,Oman,2007,113
+OMN,Oman,2006,115
+OMN,Oman,2005,118
+OMN,Oman,2004,122
+OMN,Oman,2003,127
+OMN,Oman,2002,130
+OMN,Oman,2001,134
+OMN,Oman,2000,139
+PAK,Pakistan,2015,166
+PAK,Pakistan,2014,167
+PAK,Pakistan,2013,168
+PAK,Pakistan,2012,170
+PAK,Pakistan,2011,171
+PAK,Pakistan,2010,175
+PAK,Pakistan,2009,177
+PAK,Pakistan,2008,177
+PAK,Pakistan,2007,178
+PAK,Pakistan,2006,180
+PAK,Pakistan,2005,200
+PAK,Pakistan,2004,183
+PAK,Pakistan,2003,185
+PAK,Pakistan,2002,187
+PAK,Pakistan,2001,188
+PAK,Pakistan,2000,190
+QAT,Qatar,2015,63
+QAT,Qatar,2014,64
+QAT,Qatar,2013,65
+QAT,Qatar,2012,65
+QAT,Qatar,2011,65
+QAT,Qatar,2010,65
+QAT,Qatar,2009,65
+QAT,Qatar,2008,65
+QAT,Qatar,2007,66
+QAT,Qatar,2006,66
+QAT,Qatar,2005,67
+QAT,Qatar,2004,69
+QAT,Qatar,2003,70
+QAT,Qatar,2002,72
+QAT,Qatar,2001,73
+QAT,Qatar,2000,74
+SAU,Saudi Arabia,2015,90
+SAU,Saudi Arabia,2014,91
+SAU,Saudi Arabia,2013,92
+SAU,Saudi Arabia,2012,94
+SAU,Saudi Arabia,2011,95
+SAU,Saudi Arabia,2010,97
+SAU,Saudi Arabia,2009,99
+SAU,Saudi Arabia,2008,101
+SAU,Saudi Arabia,2007,102
+SAU,Saudi Arabia,2006,103
+SAU,Saudi Arabia,2005,104
+SAU,Saudi Arabia,2004,105
+SAU,Saudi Arabia,2003,106
+SAU,Saudi Arabia,2002,107
+SAU,Saudi Arabia,2001,109
+SAU,Saudi Arabia,2000,112
+SDN,Sudan,2015,227
+SDN,Sudan,2014,229
+SDN,Sudan,2013,232
+SDN,Sudan,2012,236
+SDN,Sudan,2011,241
+SDN,Sudan,2010,243
+SDN,Sudan,2009,248
+SDN,Sudan,2008,250
+SDN,Sudan,2007,253
+SDN,Sudan,2006,260
+SDN,Sudan,2005,261
+SDN,Sudan,2004,278
+SDN,Sudan,2003,278
+SDN,Sudan,2002,276
+SDN,Sudan,2001,282
+SDN,Sudan,2000,284
+SOM,Somalia,2015,307
+SOM,Somalia,2014,311
+SOM,Somalia,2013,313
+SOM,Somalia,2012,329
+SOM,Somalia,2011,328
+SOM,Somalia,2010,335
+SOM,Somalia,2009,335
+SOM,Somalia,2008,338
+SOM,Somalia,2007,342
+SOM,Somalia,2006,341
+SOM,Somalia,2005,339
+SOM,Somalia,2004,345
+SOM,Somalia,2003,347
+SOM,Somalia,2002,351
+SOM,Somalia,2001,354
+SOM,Somalia,2000,358
+SYR,Syrian Arab Republic,2015,316
+SYR,Syrian Arab Republic,2014,368
+SYR,Syrian Arab Republic,2013,338
+SYR,Syrian Arab Republic,2012,278
+SYR,Syrian Arab Republic,2011,142
+SYR,Syrian Arab Republic,2010,124
+SYR,Syrian Arab Republic,2009,123
+SYR,Syrian Arab Republic,2008,123
+SYR,Syrian Arab Republic,2007,123
+SYR,Syrian Arab Republic,2006,123
+SYR,Syrian Arab Republic,2005,123
+SYR,Syrian Arab Republic,2004,125
+SYR,Syrian Arab Republic,2003,124
+SYR,Syrian Arab Republic,2002,124
+SYR,Syrian Arab Republic,2001,124
+SYR,Syrian Arab Republic,2000,124
+TUN,Tunisia,2015,93
+TUN,Tunisia,2014,94
+TUN,Tunisia,2013,95
+TUN,Tunisia,2012,96
+TUN,Tunisia,2011,98
+TUN,Tunisia,2010,99
+TUN,Tunisia,2009,101
+TUN,Tunisia,2008,102
+TUN,Tunisia,2007,103
+TUN,Tunisia,2006,104
+TUN,Tunisia,2005,105
+TUN,Tunisia,2004,106
+TUN,Tunisia,2003,107
+TUN,Tunisia,2002,108
+TUN,Tunisia,2001,110
+TUN,Tunisia,2000,111
+YEM,Yemen,2015,240
+YEM,Yemen,2014,226
+YEM,Yemen,2013,225
+YEM,Yemen,2012,234
+YEM,Yemen,2011,234
+YEM,Yemen,2010,234
+YEM,Yemen,2009,236
+YEM,Yemen,2008,239
+YEM,Yemen,2007,241
+YEM,Yemen,2006,243
+YEM,Yemen,2005,246
+YEM,Yemen,2004,248
+YEM,Yemen,2003,249
+YEM,Yemen,2002,250
+YEM,Yemen,2001,251
+YEM,Yemen,2000,251
+ALB,Albania,2015,92
+ALB,Albania,2014,98
+ALB,Albania,2013,100
+ALB,Albania,2012,103
+ALB,Albania,2011,103
+ALB,Albania,2010,103
+ALB,Albania,2009,103
+ALB,Albania,2008,102
+ALB,Albania,2007,101
+ALB,Albania,2006,101
+ALB,Albania,2005,106
+ALB,Albania,2004,101
+ALB,Albania,2003,107
+ALB,Albania,2002,102
+ALB,Albania,2001,100
+ALB,Albania,2000,106
+ARM,Armenia,2015,121
+ARM,Armenia,2014,118
+ARM,Armenia,2013,121
+ARM,Armenia,2012,131
+ARM,Armenia,2011,135
+ARM,Armenia,2010,138
+ARM,Armenia,2009,142
+ARM,Armenia,2008,144
+ARM,Armenia,2007,137
+ARM,Armenia,2006,145
+ARM,Armenia,2005,140
+ARM,Armenia,2004,135
+ARM,Armenia,2003,137
+ARM,Armenia,2002,137
+ARM,Armenia,2001,143
+ARM,Armenia,2000,143
+AUT,Austria,2015,64
+AUT,Austria,2014,65
+AUT,Austria,2013,67
+AUT,Austria,2012,68
+AUT,Austria,2011,72
+AUT,Austria,2010,74
+AUT,Austria,2009,77
+AUT,Austria,2008,76
+AUT,Austria,2007,80
+AUT,Austria,2006,80
+AUT,Austria,2005,84
+AUT,Austria,2004,84
+AUT,Austria,2003,86
+AUT,Austria,2002,87
+AUT,Austria,2001,90
+AUT,Austria,2000,94
+AZE,Azerbaijan,2015,120
+AZE,Azerbaijan,2014,121
+AZE,Azerbaijan,2013,124
+AZE,Azerbaijan,2012,126
+AZE,Azerbaijan,2011,129
+AZE,Azerbaijan,2010,132
+AZE,Azerbaijan,2009,133
+AZE,Azerbaijan,2008,142
+AZE,Azerbaijan,2007,141
+AZE,Azerbaijan,2006,153
+AZE,Azerbaijan,2005,160
+AZE,Azerbaijan,2004,151
+AZE,Azerbaijan,2003,151
+AZE,Azerbaijan,2002,144
+AZE,Azerbaijan,2001,149
+AZE,Azerbaijan,2000,161
+BEL,Belgium,2015,72
+BEL,Belgium,2014,73
+BEL,Belgium,2013,77
+BEL,Belgium,2012,79
+BEL,Belgium,2011,81
+BEL,Belgium,2010,81
+BEL,Belgium,2009,84
+BEL,Belgium,2008,86
+BEL,Belgium,2007,86
+BEL,Belgium,2006,85
+BEL,Belgium,2005,88
+BEL,Belgium,2004,89
+BEL,Belgium,2003,94
+BEL,Belgium,2002,97
+BEL,Belgium,2001,98
+BEL,Belgium,2000,99
+BGR,Bulgaria,2015,136
+BGR,Bulgaria,2014,141
+BGR,Bulgaria,2013,135
+BGR,Bulgaria,2012,137
+BGR,Bulgaria,2011,141
+BGR,Bulgaria,2010,143
+BGR,Bulgaria,2009,147
+BGR,Bulgaria,2008,150
+BGR,Bulgaria,2007,153
+BGR,Bulgaria,2006,157
+BGR,Bulgaria,2005,156
+BGR,Bulgaria,2004,154
+BGR,Bulgaria,2003,154
+BGR,Bulgaria,2002,156
+BGR,Bulgaria,2001,159
+BGR,Bulgaria,2000,163
+BIH,Bosnia and Herzegovina,2015,94
+BIH,Bosnia and Herzegovina,2014,96
+BIH,Bosnia and Herzegovina,2013,97
+BIH,Bosnia and Herzegovina,2012,98
+BIH,Bosnia and Herzegovina,2011,100
+BIH,Bosnia and Herzegovina,2010,101
+BIH,Bosnia and Herzegovina,2009,104
+BIH,Bosnia and Herzegovina,2008,105
+BIH,Bosnia and Herzegovina,2007,114
+BIH,Bosnia and Herzegovina,2006,109
+BIH,Bosnia and Herzegovina,2005,112
+BIH,Bosnia and Herzegovina,2004,108
+BIH,Bosnia and Herzegovina,2003,113
+BIH,Bosnia and Herzegovina,2002,111
+BIH,Bosnia and Herzegovina,2001,125
+BIH,Bosnia and Herzegovina,2000,128
+BLR,Belarus,2015,163
+BLR,Belarus,2014,175
+BLR,Belarus,2013,183
+BLR,Belarus,2012,192
+BLR,Belarus,2011,227
+BLR,Belarus,2010,226
+BLR,Belarus,2009,225
+BLR,Belarus,2008,228
+BLR,Belarus,2007,230
+BLR,Belarus,2006,246
+BLR,Belarus,2005,255
+BLR,Belarus,2004,249
+BLR,Belarus,2003,254
+BLR,Belarus,2002,264
+BLR,Belarus,2001,255
+BLR,Belarus,2000,247
+CHE,Switzerland,2015,50
+CHE,Switzerland,2014,50
+CHE,Switzerland,2013,53
+CHE,Switzerland,2012,54
+CHE,Switzerland,2011,54
+CHE,Switzerland,2010,57
+CHE,Switzerland,2009,59
+CHE,Switzerland,2008,59
+CHE,Switzerland,2007,62
+CHE,Switzerland,2006,64
+CHE,Switzerland,2005,66
+CHE,Switzerland,2004,68
+CHE,Switzerland,2003,71
+CHE,Switzerland,2002,73
+CHE,Switzerland,2001,75
+CHE,Switzerland,2000,78
+CYP,Cyprus,2015,57
+CYP,Cyprus,2014,61
+CYP,Cyprus,2013,58
+CYP,Cyprus,2012,55
+CYP,Cyprus,2011,58
+CYP,Cyprus,2010,65
+CYP,Cyprus,2009,68
+CYP,Cyprus,2008,68
+CYP,Cyprus,2007,70
+CYP,Cyprus,2006,64
+CYP,Cyprus,2005,75
+CYP,Cyprus,2004,74
+CYP,Cyprus,2003,69
+CYP,Cyprus,2002,71
+CYP,Cyprus,2001,70
+CYP,Cyprus,2000,80
+CZE,Czechia,2015,83
+CZE,Czechia,2014,85
+CZE,Czechia,2013,89
+CZE,Czechia,2012,93
+CZE,Czechia,2011,96
+CZE,Czechia,2010,98
+CZE,Czechia,2009,101
+CZE,Czechia,2008,105
+CZE,Czechia,2007,106
+CZE,Czechia,2006,108
+CZE,Czechia,2005,113
+CZE,Czechia,2004,115
+CZE,Czechia,2003,121
+CZE,Czechia,2002,119
+CZE,Czechia,2001,121
+CZE,Czechia,2000,124
+DEU,Germany,2015,71
+DEU,Germany,2014,70
+DEU,Germany,2013,73
+DEU,Germany,2012,73
+DEU,Germany,2011,75
+DEU,Germany,2010,78
+DEU,Germany,2009,80
+DEU,Germany,2008,81
+DEU,Germany,2007,82
+DEU,Germany,2006,83
+DEU,Germany,2005,84
+DEU,Germany,2004,85
+DEU,Germany,2003,89
+DEU,Germany,2002,91
+DEU,Germany,2001,92
+DEU,Germany,2000,95
+DNK,Denmark,2015,66
+DNK,Denmark,2014,68
+DNK,Denmark,2013,72
+DNK,Denmark,2012,75
+DNK,Denmark,2011,78
+DNK,Denmark,2010,83
+DNK,Denmark,2009,84
+DNK,Denmark,2008,86
+DNK,Denmark,2007,91
+DNK,Denmark,2006,91
+DNK,Denmark,2005,89
+DNK,Denmark,2004,95
+DNK,Denmark,2003,98
+DNK,Denmark,2002,101
+DNK,Denmark,2001,100
+DNK,Denmark,2000,100
+ESP,Spain,2015,58
+ESP,Spain,2014,58
+ESP,Spain,2013,59
+ESP,Spain,2012,61
+ESP,Spain,2011,63
+ESP,Spain,2010,65
+ESP,Spain,2009,67
+ESP,Spain,2008,70
+ESP,Spain,2007,72
+ESP,Spain,2006,73
+ESP,Spain,2005,76
+ESP,Spain,2004,79
+ESP,Spain,2003,82
+ESP,Spain,2002,82
+ESP,Spain,2001,83
+ESP,Spain,2000,84
+EST,Estonia,2015,116
+EST,Estonia,2014,124
+EST,Estonia,2013,122
+EST,Estonia,2012,134
+EST,Estonia,2011,136
+EST,Estonia,2010,134
+EST,Estonia,2009,154
+EST,Estonia,2008,164
+EST,Estonia,2007,187
+EST,Estonia,2006,186
+EST,Estonia,2005,187
+EST,Estonia,2004,193
+EST,Estonia,2003,197
+EST,Estonia,2002,210
+EST,Estonia,2001,224
+EST,Estonia,2000,216
+FIN,Finland,2015,70
+FIN,Finland,2014,73
+FIN,Finland,2013,78
+FIN,Finland,2012,80
+FIN,Finland,2011,84
+FIN,Finland,2010,88
+FIN,Finland,2009,90
+FIN,Finland,2008,94
+FIN,Finland,2007,96
+FIN,Finland,2006,95
+FIN,Finland,2005,100
+FIN,Finland,2004,101
+FIN,Finland,2003,97
+FIN,Finland,2002,97
+FIN,Finland,2001,99
+FIN,Finland,2000,104
+FRA,France,2015,73
+FRA,France,2014,74
+FRA,France,2013,77
+FRA,France,2012,80
+FRA,France,2011,83
+FRA,France,2010,85
+FRA,France,2009,87
+FRA,France,2008,87
+FRA,France,2007,88
+FRA,France,2006,90
+FRA,France,2005,92
+FRA,France,2004,92
+FRA,France,2003,97
+FRA,France,2002,98
+FRA,France,2001,99
+FRA,France,2000,99
+GBR,United Kingdom and Northern Ireland,2015,69
+GBR,United Kingdom and Northern Ireland,2014,68
+GBR,United Kingdom and Northern Ireland,2013,69
+GBR,United Kingdom and Northern Ireland,2012,69
+GBR,United Kingdom and Northern Ireland,2011,71
+GBR,United Kingdom and Northern Ireland,2010,74
+GBR,United Kingdom and Northern Ireland,2009,76
+GBR,United Kingdom and Northern Ireland,2008,78
+GBR,United Kingdom and Northern Ireland,2007,79
+GBR,United Kingdom and Northern Ireland,2006,81
+GBR,United Kingdom and Northern Ireland,2005,81
+GBR,United Kingdom and Northern Ireland,2004,82
+GBR,United Kingdom and Northern Ireland,2003,86
+GBR,United Kingdom and Northern Ireland,2002,87
+GBR,United Kingdom and Northern Ireland,2001,88
+GBR,United Kingdom and Northern Ireland,2000,88
+GEO,Georgia,2015,156
+GEO,Georgia,2014,155
+GEO,Georgia,2013,158
+GEO,Georgia,2012,157
+GEO,Georgia,2011,153
+GEO,Georgia,2010,157
+GEO,Georgia,2009,156
+GEO,Georgia,2008,150
+GEO,Georgia,2007,140
+GEO,Georgia,2006,145
+GEO,Georgia,2005,144
+GEO,Georgia,2004,148
+GEO,Georgia,2003,144
+GEO,Georgia,2002,152
+GEO,Georgia,2001,125
+GEO,Georgia,2000,129
+GRC,Greece,2015,68
+GRC,Greece,2014,67
+GRC,Greece,2013,68
+GRC,Greece,2012,72
+GRC,Greece,2011,73
+GRC,Greece,2010,74
+GRC,Greece,2009,76
+GRC,Greece,2008,75
+GRC,Greece,2007,78
+GRC,Greece,2006,76
+GRC,Greece,2005,79
+GRC,Greece,2004,80
+GRC,Greece,2003,80
+GRC,Greece,2002,79
+GRC,Greece,2001,81
+GRC,Greece,2000,82
+HRV,Croatia,2015,96
+HRV,Croatia,2014,94
+HRV,Croatia,2013,96
+HRV,Croatia,2012,103
+HRV,Croatia,2011,103
+HRV,Croatia,2010,106
+HRV,Croatia,2009,109
+HRV,Croatia,2008,117
+HRV,Croatia,2007,115
+HRV,Croatia,2006,114
+HRV,Croatia,2005,116
+HRV,Croatia,2004,113
+HRV,Croatia,2003,121
+HRV,Croatia,2002,124
+HRV,Croatia,2001,129
+HRV,Croatia,2000,133
+HUN,Hungary,2015,132
+HUN,Hungary,2014,133
+HUN,Hungary,2013,136
+HUN,Hungary,2012,143
+HUN,Hungary,2011,147
+HUN,Hungary,2010,152
+HUN,Hungary,2009,160
+HUN,Hungary,2008,164
+HUN,Hungary,2007,176
+HUN,Hungary,2006,178
+HUN,Hungary,2005,182
+HUN,Hungary,2004,180
+HUN,Hungary,2003,184
+HUN,Hungary,2002,184
+HUN,Hungary,2001,185
+HUN,Hungary,2000,193
+IRL,Ireland,2015,63
+IRL,Ireland,2014,62
+IRL,Ireland,2013,64
+IRL,Ireland,2012,66
+IRL,Ireland,2011,67
+IRL,Ireland,2010,65
+IRL,Ireland,2009,74
+IRL,Ireland,2008,72
+IRL,Ireland,2007,72
+IRL,Ireland,2006,75
+IRL,Ireland,2005,75
+IRL,Ireland,2004,79
+IRL,Ireland,2003,80
+IRL,Ireland,2002,86
+IRL,Ireland,2001,88
+IRL,Ireland,2000,93
+ISL,Iceland,2015,54
+ISL,Iceland,2014,55
+ISL,Iceland,2013,53
+ISL,Iceland,2012,50
+ISL,Iceland,2011,51
+ISL,Iceland,2010,53
+ISL,Iceland,2009,55
+ISL,Iceland,2008,57
+ISL,Iceland,2007,60
+ISL,Iceland,2006,62
+ISL,Iceland,2005,61
+ISL,Iceland,2004,61
+ISL,Iceland,2003,63
+ISL,Iceland,2002,66
+ISL,Iceland,2001,73
+ISL,Iceland,2000,76
+ISR,Israel,2015,58
+ISR,Israel,2014,58
+ISR,Israel,2013,59
+ISR,Israel,2012,58
+ISR,Israel,2011,59
+ISR,Israel,2010,60
+ISR,Israel,2009,61
+ISR,Israel,2008,64
+ISR,Israel,2007,67
+ISR,Israel,2006,69
+ISR,Israel,2005,72
+ISR,Israel,2004,73
+ISR,Israel,2003,76
+ISR,Israel,2002,81
+ISR,Israel,2001,79
+ISR,Israel,2000,80
+ITA,Italy,2015,55
+ITA,Italy,2014,54
+ITA,Italy,2013,56
+ITA,Italy,2012,57
+ITA,Italy,2011,58
+ITA,Italy,2010,58
+ITA,Italy,2009,60
+ITA,Italy,2008,61
+ITA,Italy,2007,62
+ITA,Italy,2006,64
+ITA,Italy,2005,65
+ITA,Italy,2004,66
+ITA,Italy,2003,70
+ITA,Italy,2002,71
+ITA,Italy,2001,73
+ITA,Italy,2000,75
+KAZ,Kazakhstan,2015,192
+KAZ,Kazakhstan,2014,199
+KAZ,Kazakhstan,2013,211
+KAZ,Kazakhstan,2012,224
+KAZ,Kazakhstan,2011,232
+KAZ,Kazakhstan,2010,243
+KAZ,Kazakhstan,2009,240
+KAZ,Kazakhstan,2008,264
+KAZ,Kazakhstan,2007,293
+KAZ,Kazakhstan,2006,299
+KAZ,Kazakhstan,2005,297
+KAZ,Kazakhstan,2004,289
+KAZ,Kazakhstan,2003,283
+KAZ,Kazakhstan,2002,276
+KAZ,Kazakhstan,2001,283
+KAZ,Kazakhstan,2000,287
+KGZ,Kyrgyzstan,2015,167
+KGZ,Kyrgyzstan,2014,175
+KGZ,Kyrgyzstan,2013,183
+KGZ,Kyrgyzstan,2012,189
+KGZ,Kyrgyzstan,2011,196
+KGZ,Kyrgyzstan,2010,209
+KGZ,Kyrgyzstan,2009,204
+KGZ,Kyrgyzstan,2008,218
+KGZ,Kyrgyzstan,2007,230
+KGZ,Kyrgyzstan,2006,233
+KGZ,Kyrgyzstan,2005,223
+KGZ,Kyrgyzstan,2004,217
+KGZ,Kyrgyzstan,2003,217
+KGZ,Kyrgyzstan,2002,217
+KGZ,Kyrgyzstan,2001,219
+KGZ,Kyrgyzstan,2000,228
+LTU,Lithuania,2015,165
+LTU,Lithuania,2014,167
+LTU,Lithuania,2013,179
+LTU,Lithuania,2012,180
+LTU,Lithuania,2011,184
+LTU,Lithuania,2010,188
+LTU,Lithuania,2009,197
+LTU,Lithuania,2008,229
+LTU,Lithuania,2007,246
+LTU,Lithuania,2006,235
+LTU,Lithuania,2005,228
+LTU,Lithuania,2004,209
+LTU,Lithuania,2003,207
+LTU,Lithuania,2002,207
+LTU,Lithuania,2001,214
+LTU,Lithuania,2000,200
+LUX,Luxembourg,2015,52
+LUX,Luxembourg,2014,55
+LUX,Luxembourg,2013,60
+LUX,Luxembourg,2012,63
+LUX,Luxembourg,2011,66
+LUX,Luxembourg,2010,67
+LUX,Luxembourg,2009,67
+LUX,Luxembourg,2008,69
+LUX,Luxembourg,2007,75
+LUX,Luxembourg,2006,78
+LUX,Luxembourg,2005,81
+LUX,Luxembourg,2004,79
+LUX,Luxembourg,2003,85
+LUX,Luxembourg,2002,87
+LUX,Luxembourg,2001,90
+LUX,Luxembourg,2000,90
+LVA,Latvia,2015,154
+LVA,Latvia,2014,159
+LVA,Latvia,2013,164
+LVA,Latvia,2012,162
+LVA,Latvia,2011,167
+LVA,Latvia,2010,178
+LVA,Latvia,2009,185
+LVA,Latvia,2008,200
+LVA,Latvia,2007,224
+LVA,Latvia,2006,232
+LVA,Latvia,2005,220
+LVA,Latvia,2004,209
+LVA,Latvia,2003,212
+LVA,Latvia,2002,221
+LVA,Latvia,2001,229
+LVA,Latvia,2000,217
+MDA,Republic of Moldova,2015,184
+MDA,Republic of Moldova,2014,180
+MDA,Republic of Moldova,2013,170
+MDA,Republic of Moldova,2012,183
+MDA,Republic of Moldova,2011,183
+MDA,Republic of Moldova,2010,223
+MDA,Republic of Moldova,2009,217
+MDA,Republic of Moldova,2008,222
+MDA,Republic of Moldova,2007,232
+MDA,Republic of Moldova,2006,237
+MDA,Republic of Moldova,2005,240
+MDA,Republic of Moldova,2004,216
+MDA,Republic of Moldova,2003,217
+MDA,Republic of Moldova,2002,216
+MDA,Republic of Moldova,2001,219
+MDA,Republic of Moldova,2000,226
+MKD,North Macedonia,2015,97
+MKD,North Macedonia,2014,98
+MKD,North Macedonia,2013,98
+MKD,North Macedonia,2012,102
+MKD,North Macedonia,2011,102
+MKD,North Macedonia,2010,106
+MKD,North Macedonia,2009,109
+MKD,North Macedonia,2008,109
+MKD,North Macedonia,2007,118
+MKD,North Macedonia,2006,120
+MKD,North Macedonia,2005,118
+MKD,North Macedonia,2004,119
+MKD,North Macedonia,2003,124
+MKD,North Macedonia,2002,127
+MKD,North Macedonia,2001,128
+MKD,North Macedonia,2000,124
+MLT,Malta,2015,55
+MLT,Malta,2014,53
+MLT,Malta,2013,57
+MLT,Malta,2012,57
+MLT,Malta,2011,59
+MLT,Malta,2010,58
+MLT,Malta,2009,61
+MLT,Malta,2008,62
+MLT,Malta,2007,65
+MLT,Malta,2006,63
+MLT,Malta,2005,63
+MLT,Malta,2004,64
+MLT,Malta,2003,66
+MLT,Malta,2002,68
+MLT,Malta,2001,69
+MLT,Malta,2000,70
+MNE,Montenegro,2015,101
+MNE,Montenegro,2014,103
+MNE,Montenegro,2013,105
+MNE,Montenegro,2012,108
+MNE,Montenegro,2011,111
+MNE,Montenegro,2010,112
+MNE,Montenegro,2009,115
+MNE,Montenegro,2008,119
+MNE,Montenegro,2007,123
+MNE,Montenegro,2006,127
+MNE,Montenegro,2005,130
+MNE,Montenegro,2004,131
+MNE,Montenegro,2003,132
+MNE,Montenegro,2002,133
+MNE,Montenegro,2001,137
+MNE,Montenegro,2000,140
+NLD,Netherlands,2015,58
+NLD,Netherlands,2014,59
+NLD,Netherlands,2013,61
+NLD,Netherlands,2012,63
+NLD,Netherlands,2011,64
+NLD,Netherlands,2010,64
+NLD,Netherlands,2009,65
+NLD,Netherlands,2008,67
+NLD,Netherlands,2007,67
+NLD,Netherlands,2006,70
+NLD,Netherlands,2005,72
+NLD,Netherlands,2004,76
+NLD,Netherlands,2003,80
+NLD,Netherlands,2002,81
+NLD,Netherlands,2001,82
+NLD,Netherlands,2000,83
+NOR,Norway,2015,54
+NOR,Norway,2014,57
+NOR,Norway,2013,61
+NOR,Norway,2012,60
+NOR,Norway,2011,66
+NOR,Norway,2010,65
+NOR,Norway,2009,67
+NOR,Norway,2008,66
+NOR,Norway,2007,67
+NOR,Norway,2006,69
+NOR,Norway,2005,72
+NOR,Norway,2004,76
+NOR,Norway,2003,77
+NOR,Norway,2002,80
+NOR,Norway,2001,81
+NOR,Norway,2000,84
+POL,Poland,2015,115
+POL,Poland,2014,115
+POL,Poland,2013,121
+POL,Poland,2012,126
+POL,Poland,2011,128
+POL,Poland,2010,131
+POL,Poland,2009,137
+POL,Poland,2008,142
+POL,Poland,2007,145
+POL,Poland,2006,145
+POL,Poland,2005,144
+POL,Poland,2004,142
+POL,Poland,2003,140
+POL,Poland,2002,143
+POL,Poland,2001,147
+POL,Poland,2000,152
+PRT,Portugal,2015,77
+PRT,Portugal,2014,77
+PRT,Portugal,2013,78
+PRT,Portugal,2012,81
+PRT,Portugal,2011,84
+PRT,Portugal,2010,86
+PRT,Portugal,2009,88
+PRT,Portugal,2008,89
+PRT,Portugal,2007,92
+PRT,Portugal,2006,95
+PRT,Portugal,2005,97
+PRT,Portugal,2004,99
+PRT,Portugal,2003,104
+PRT,Portugal,2002,107
+PRT,Portugal,2001,109
+PRT,Portugal,2000,110
+ROU,Romania,2015,136
+ROU,Romania,2014,140
+ROU,Romania,2013,134
+ROU,Romania,2012,141
+ROU,Romania,2011,141
+ROU,Romania,2010,155
+ROU,Romania,2009,160
+ROU,Romania,2008,160
+ROU,Romania,2007,155
+ROU,Romania,2006,158
+ROU,Romania,2005,162
+ROU,Romania,2004,166
+ROU,Romania,2003,174
+ROU,Romania,2002,178
+ROU,Romania,2001,179
+ROU,Romania,2000,175
+RUS,Russian Federation,2015,208
+RUS,Russian Federation,2014,214
+RUS,Russian Federation,2013,221
+RUS,Russian Federation,2012,230
+RUS,Russian Federation,2011,237
+RUS,Russian Federation,2010,251
+RUS,Russian Federation,2009,256
+RUS,Russian Federation,2008,274
+RUS,Russian Federation,2007,279
+RUS,Russian Federation,2006,299
+RUS,Russian Federation,2005,326
+RUS,Russian Federation,2004,321
+RUS,Russian Federation,2003,325
+RUS,Russian Federation,2002,317
+RUS,Russian Federation,2001,311
+RUS,Russian Federation,2000,311
+SRB,Serbia,2015,106
+SRB,Serbia,2014,106
+SRB,Serbia,2013,107
+SRB,Serbia,2012,111
+SRB,Serbia,2011,113
+SRB,Serbia,2010,115
+SRB,Serbia,2009,120
+SRB,Serbia,2008,122
+SRB,Serbia,2007,123
+SRB,Serbia,2006,126
+SRB,Serbia,2005,128
+SRB,Serbia,2004,129
+SRB,Serbia,2003,131
+SRB,Serbia,2002,131
+SRB,Serbia,2001,134
+SRB,Serbia,2000,141
+SVK,Slovakia,2015,107
+SVK,Slovakia,2014,109
+SVK,Slovakia,2013,111
+SVK,Slovakia,2012,115
+SVK,Slovakia,2011,120
+SVK,Slovakia,2010,122
+SVK,Slovakia,2009,130
+SVK,Slovakia,2008,135
+SVK,Slovakia,2007,139
+SVK,Slovakia,2006,138
+SVK,Slovakia,2005,140
+SVK,Slovakia,2004,137
+SVK,Slovakia,2003,143
+SVK,Slovakia,2002,144
+SVK,Slovakia,2001,145
+SVK,Slovakia,2000,147
+SVN,Slovenia,2015,74
+SVN,Slovenia,2014,70
+SVN,Slovenia,2013,78
+SVN,Slovenia,2012,81
+SVN,Slovenia,2011,82
+SVN,Slovenia,2010,87
+SVN,Slovenia,2009,91
+SVN,Slovenia,2008,96
+SVN,Slovenia,2007,102
+SVN,Slovenia,2006,107
+SVN,Slovenia,2005,104
+SVN,Slovenia,2004,113
+SVN,Slovenia,2003,119
+SVN,Slovenia,2002,117
+SVN,Slovenia,2001,123
+SVN,Slovenia,2000,122
+SWE,Sweden,2015,54
+SWE,Sweden,2014,55
+SWE,Sweden,2013,56
+SWE,Sweden,2012,56
+SWE,Sweden,2011,58
+SWE,Sweden,2010,58
+SWE,Sweden,2009,61
+SWE,Sweden,2008,62
+SWE,Sweden,2007,63
+SWE,Sweden,2006,64
+SWE,Sweden,2005,66
+SWE,Sweden,2004,70
+SWE,Sweden,2003,68
+SWE,Sweden,2002,70
+SWE,Sweden,2001,72
+SWE,Sweden,2000,72
+TJK,Tajikistan,2015,125
+TJK,Tajikistan,2014,127
+TJK,Tajikistan,2013,128
+TJK,Tajikistan,2012,130
+TJK,Tajikistan,2011,133
+TJK,Tajikistan,2010,135
+TJK,Tajikistan,2009,136
+TJK,Tajikistan,2008,141
+TJK,Tajikistan,2007,146
+TJK,Tajikistan,2006,150
+TJK,Tajikistan,2005,155
+TJK,Tajikistan,2004,142
+TJK,Tajikistan,2003,147
+TJK,Tajikistan,2002,157
+TJK,Tajikistan,2001,162
+TJK,Tajikistan,2000,170
+TKM,Turkmenistan,2015,198
+TKM,Turkmenistan,2014,199
+TKM,Turkmenistan,2013,196
+TKM,Turkmenistan,2012,189
+TKM,Turkmenistan,2011,190
+TKM,Turkmenistan,2010,188
+TKM,Turkmenistan,2009,196
+TKM,Turkmenistan,2008,219
+TKM,Turkmenistan,2007,226
+TKM,Turkmenistan,2006,231
+TKM,Turkmenistan,2005,234
+TKM,Turkmenistan,2004,224
+TKM,Turkmenistan,2003,218
+TKM,Turkmenistan,2002,216
+TKM,Turkmenistan,2001,210
+TKM,Turkmenistan,2000,215
+TUR,Turkey,2015,106
+TUR,Turkey,2014,107
+TUR,Turkey,2013,109
+TUR,Turkey,2012,112
+TUR,Turkey,2011,114
+TUR,Turkey,2010,116
+TUR,Turkey,2009,118
+TUR,Turkey,2008,121
+TUR,Turkey,2007,124
+TUR,Turkey,2006,126
+TUR,Turkey,2005,129
+TUR,Turkey,2004,132
+TUR,Turkey,2003,134
+TUR,Turkey,2002,137
+TUR,Turkey,2001,140
+TUR,Turkey,2000,144
+UKR,Ukraine,2015,188
+UKR,Ukraine,2014,212
+UKR,Ukraine,2013,207
+UKR,Ukraine,2012,211
+UKR,Ukraine,2011,209
+UKR,Ukraine,2010,218
+UKR,Ukraine,2009,235
+UKR,Ukraine,2008,275
+UKR,Ukraine,2007,278
+UKR,Ukraine,2006,268
+UKR,Ukraine,2005,280
+UKR,Ukraine,2004,269
+UKR,Ukraine,2003,258
+UKR,Ukraine,2002,257
+UKR,Ukraine,2001,254
+UKR,Ukraine,2000,258
+UZB,Uzbekistan,2015,133
+UZB,Uzbekistan,2014,139
+UZB,Uzbekistan,2013,141
+UZB,Uzbekistan,2012,145
+UZB,Uzbekistan,2011,144
+UZB,Uzbekistan,2010,145
+UZB,Uzbekistan,2009,149
+UZB,Uzbekistan,2008,157
+UZB,Uzbekistan,2007,165
+UZB,Uzbekistan,2006,174
+UZB,Uzbekistan,2005,183
+UZB,Uzbekistan,2004,174
+UZB,Uzbekistan,2003,173
+UZB,Uzbekistan,2002,176
+UZB,Uzbekistan,2001,177
+UZB,Uzbekistan,2000,183
+BGD,Bangladesh,2015,133
+BGD,Bangladesh,2014,136
+BGD,Bangladesh,2013,138
+BGD,Bangladesh,2012,140
+BGD,Bangladesh,2011,141
+BGD,Bangladesh,2010,143
+BGD,Bangladesh,2009,145
+BGD,Bangladesh,2008,147
+BGD,Bangladesh,2007,150
+BGD,Bangladesh,2006,151
+BGD,Bangladesh,2005,154
+BGD,Bangladesh,2004,158
+BGD,Bangladesh,2003,161
+BGD,Bangladesh,2002,164
+BGD,Bangladesh,2001,168
+BGD,Bangladesh,2000,173
+BTN,Bhutan,2015,211
+BTN,Bhutan,2014,215
+BTN,Bhutan,2013,219
+BTN,Bhutan,2012,222
+BTN,Bhutan,2011,225
+BTN,Bhutan,2010,228
+BTN,Bhutan,2009,232
+BTN,Bhutan,2008,235
+BTN,Bhutan,2007,239
+BTN,Bhutan,2006,246
+BTN,Bhutan,2005,254
+BTN,Bhutan,2004,264
+BTN,Bhutan,2003,271
+BTN,Bhutan,2002,279
+BTN,Bhutan,2001,287
+BTN,Bhutan,2000,309
+IDN,Indonesia,2015,178
+IDN,Indonesia,2014,180
+IDN,Indonesia,2013,181
+IDN,Indonesia,2012,183
+IDN,Indonesia,2011,185
+IDN,Indonesia,2010,187
+IDN,Indonesia,2009,189
+IDN,Indonesia,2008,190
+IDN,Indonesia,2007,190
+IDN,Indonesia,2006,190
+IDN,Indonesia,2005,189
+IDN,Indonesia,2004,212
+IDN,Indonesia,2003,188
+IDN,Indonesia,2002,188
+IDN,Indonesia,2001,187
+IDN,Indonesia,2000,187
+IND,India,2015,181
+IND,India,2014,183
+IND,India,2013,186
+IND,India,2012,188
+IND,India,2011,191
+IND,India,2010,194
+IND,India,2009,198
+IND,India,2008,201
+IND,India,2007,204
+IND,India,2006,208
+IND,India,2005,211
+IND,India,2004,214
+IND,India,2003,216
+IND,India,2002,219
+IND,India,2001,222
+IND,India,2000,224
+LKA,Sri Lanka,2015,131
+LKA,Sri Lanka,2014,131
+LKA,Sri Lanka,2013,131
+LKA,Sri Lanka,2012,131
+LKA,Sri Lanka,2011,131
+LKA,Sri Lanka,2010,131
+LKA,Sri Lanka,2009,179
+LKA,Sri Lanka,2008,171
+LKA,Sri Lanka,2007,145
+LKA,Sri Lanka,2006,145
+LKA,Sri Lanka,2005,139
+LKA,Sri Lanka,2004,197
+LKA,Sri Lanka,2003,147
+LKA,Sri Lanka,2002,150
+LKA,Sri Lanka,2001,158
+LKA,Sri Lanka,2000,171
+MDV,Maldives,2015,54
+MDV,Maldives,2014,57
+MDV,Maldives,2013,59
+MDV,Maldives,2012,62
+MDV,Maldives,2011,66
+MDV,Maldives,2010,71
+MDV,Maldives,2009,76
+MDV,Maldives,2008,80
+MDV,Maldives,2007,83
+MDV,Maldives,2006,88
+MDV,Maldives,2005,93
+MDV,Maldives,2004,118
+MDV,Maldives,2003,114
+MDV,Maldives,2002,128
+MDV,Maldives,2001,135
+MDV,Maldives,2000,142
+MMR,Myanmar,2015,197
+MMR,Myanmar,2014,200
+MMR,Myanmar,2013,203
+MMR,Myanmar,2012,208
+MMR,Myanmar,2011,211
+MMR,Myanmar,2010,215
+MMR,Myanmar,2009,219
+MMR,Myanmar,2008,307
+MMR,Myanmar,2007,227
+MMR,Myanmar,2006,230
+MMR,Myanmar,2005,233
+MMR,Myanmar,2004,236
+MMR,Myanmar,2003,238
+MMR,Myanmar,2002,240
+MMR,Myanmar,2001,243
+MMR,Myanmar,2000,245
+NPL,Nepal,2015,166
+NPL,Nepal,2014,160
+NPL,Nepal,2013,164
+NPL,Nepal,2012,169
+NPL,Nepal,2011,173
+NPL,Nepal,2010,178
+NPL,Nepal,2009,183
+NPL,Nepal,2008,188
+NPL,Nepal,2007,194
+NPL,Nepal,2006,201
+NPL,Nepal,2005,210
+NPL,Nepal,2004,221
+NPL,Nepal,2003,225
+NPL,Nepal,2002,242
+NPL,Nepal,2001,234
+NPL,Nepal,2000,241
+PRK,Democratic People's Republic of Korea,2015,134
+PRK,Democratic People's Republic of Korea,2014,136
+PRK,Democratic People's Republic of Korea,2013,139
+PRK,Democratic People's Republic of Korea,2012,142
+PRK,Democratic People's Republic of Korea,2011,147
+PRK,Democratic People's Republic of Korea,2010,154
+PRK,Democratic People's Republic of Korea,2009,160
+PRK,Democratic People's Republic of Korea,2008,165
+PRK,Democratic People's Republic of Korea,2007,166
+PRK,Democratic People's Republic of Korea,2006,166
+PRK,Democratic People's Republic of Korea,2005,166
+PRK,Democratic People's Republic of Korea,2004,166
+PRK,Democratic People's Republic of Korea,2003,166
+PRK,Democratic People's Republic of Korea,2002,167
+PRK,Democratic People's Republic of Korea,2001,177
+PRK,Democratic People's Republic of Korea,2000,191
+THA,Thailand,2015,149
+THA,Thailand,2014,151
+THA,Thailand,2013,154
+THA,Thailand,2012,155
+THA,Thailand,2011,158
+THA,Thailand,2010,161
+THA,Thailand,2009,164
+THA,Thailand,2008,167
+THA,Thailand,2007,170
+THA,Thailand,2006,174
+THA,Thailand,2005,183
+THA,Thailand,2004,194
+THA,Thailand,2003,194
+THA,Thailand,2002,197
+THA,Thailand,2001,201
+THA,Thailand,2000,204
+TLS,Timor-Leste,2015,153
+TLS,Timor-Leste,2014,155
+TLS,Timor-Leste,2013,158
+TLS,Timor-Leste,2012,159
+TLS,Timor-Leste,2011,161
+TLS,Timor-Leste,2010,163
+TLS,Timor-Leste,2009,165
+TLS,Timor-Leste,2008,168
+TLS,Timor-Leste,2007,173
+TLS,Timor-Leste,2006,186
+TLS,Timor-Leste,2005,206
+TLS,Timor-Leste,2004,229
+TLS,Timor-Leste,2003,250
+TLS,Timor-Leste,2002,261
+TLS,Timor-Leste,2001,269
+TLS,Timor-Leste,2000,276
+AUS,Australia,2015,62
+AUS,Australia,2014,61
+AUS,Australia,2013,60
+AUS,Australia,2012,60
+AUS,Australia,2011,62
+AUS,Australia,2010,63
+AUS,Australia,2009,65
+AUS,Australia,2008,64
+AUS,Australia,2007,65
+AUS,Australia,2006,65
+AUS,Australia,2005,68
+AUS,Australia,2004,67
+AUS,Australia,2003,69
+AUS,Australia,2002,72
+AUS,Australia,2001,74
+AUS,Australia,2000,77
+BRN,Brunei Darussalam,2015,99
+BRN,Brunei Darussalam,2014,96
+BRN,Brunei Darussalam,2013,94
+BRN,Brunei Darussalam,2012,92
+BRN,Brunei Darussalam,2011,91
+BRN,Brunei Darussalam,2010,91
+BRN,Brunei Darussalam,2009,93
+BRN,Brunei Darussalam,2008,94
+BRN,Brunei Darussalam,2007,96
+BRN,Brunei Darussalam,2006,94
+BRN,Brunei Darussalam,2005,92
+BRN,Brunei Darussalam,2004,89
+BRN,Brunei Darussalam,2003,91
+BRN,Brunei Darussalam,2002,95
+BRN,Brunei Darussalam,2001,101
+BRN,Brunei Darussalam,2000,105
+CHN,China,2015,82
+CHN,China,2014,83
+CHN,China,2013,84
+CHN,China,2012,85
+CHN,China,2011,86
+CHN,China,2010,88
+CHN,China,2009,89
+CHN,China,2008,93
+CHN,China,2007,92
+CHN,China,2006,93
+CHN,China,2005,95
+CHN,China,2004,97
+CHN,China,2003,99
+CHN,China,2002,101
+CHN,China,2001,105
+CHN,China,2000,110
+FJI,Fiji,2015,188
+FJI,Fiji,2014,190
+FJI,Fiji,2013,192
+FJI,Fiji,2012,195
+FJI,Fiji,2011,197
+FJI,Fiji,2010,200
+FJI,Fiji,2009,203
+FJI,Fiji,2008,206
+FJI,Fiji,2007,209
+FJI,Fiji,2006,212
+FJI,Fiji,2005,214
+FJI,Fiji,2004,218
+FJI,Fiji,2003,220
+FJI,Fiji,2002,220
+FJI,Fiji,2001,221
+FJI,Fiji,2000,222
+FSM,Micronesia (Federated States of),2015,168
+FSM,Micronesia (Federated States of),2014,167
+FSM,Micronesia (Federated States of),2013,168
+FSM,Micronesia (Federated States of),2012,169
+FSM,Micronesia (Federated States of),2011,171
+FSM,Micronesia (Federated States of),2010,172
+FSM,Micronesia (Federated States of),2009,173
+FSM,Micronesia (Federated States of),2008,174
+FSM,Micronesia (Federated States of),2007,175
+FSM,Micronesia (Federated States of),2006,176
+FSM,Micronesia (Federated States of),2005,178
+FSM,Micronesia (Federated States of),2004,179
+FSM,Micronesia (Federated States of),2003,180
+FSM,Micronesia (Federated States of),2002,201
+FSM,Micronesia (Federated States of),2001,183
+FSM,Micronesia (Federated States of),2000,185
+JPN,Japan,2015,53
+JPN,Japan,2014,54
+JPN,Japan,2013,56
+JPN,Japan,2012,57
+JPN,Japan,2011,62
+JPN,Japan,2010,61
+JPN,Japan,2009,63
+JPN,Japan,2008,64
+JPN,Japan,2007,66
+JPN,Japan,2006,67
+JPN,Japan,2005,68
+JPN,Japan,2004,67
+JPN,Japan,2003,68
+JPN,Japan,2002,68
+JPN,Japan,2001,70
+JPN,Japan,2000,72
+KHM,Cambodia,2015,174
+KHM,Cambodia,2014,178
+KHM,Cambodia,2013,183
+KHM,Cambodia,2012,186
+KHM,Cambodia,2011,191
+KHM,Cambodia,2010,196
+KHM,Cambodia,2009,203
+KHM,Cambodia,2008,211
+KHM,Cambodia,2007,221
+KHM,Cambodia,2006,234
+KHM,Cambodia,2005,249
+KHM,Cambodia,2004,262
+KHM,Cambodia,2003,270
+KHM,Cambodia,2002,274
+KHM,Cambodia,2001,277
+KHM,Cambodia,2000,280
+KIR,Kiribati,2015,199
+KIR,Kiribati,2014,201
+KIR,Kiribati,2013,203
+KIR,Kiribati,2012,205
+KIR,Kiribati,2011,206
+KIR,Kiribati,2010,207
+KIR,Kiribati,2009,209
+KIR,Kiribati,2008,210
+KIR,Kiribati,2007,211
+KIR,Kiribati,2006,212
+KIR,Kiribati,2005,213
+KIR,Kiribati,2004,214
+KIR,Kiribati,2003,215
+KIR,Kiribati,2002,217
+KIR,Kiribati,2001,219
+KIR,Kiribati,2000,222
+KOR,Republic of Korea,2015,63
+KOR,Republic of Korea,2014,66
+KOR,Republic of Korea,2013,68
+KOR,Republic of Korea,2012,70
+KOR,Republic of Korea,2011,74
+KOR,Republic of Korea,2010,76
+KOR,Republic of Korea,2009,78
+KOR,Republic of Korea,2008,79
+KOR,Republic of Korea,2007,80
+KOR,Republic of Korea,2006,82
+KOR,Republic of Korea,2005,86
+KOR,Republic of Korea,2004,90
+KOR,Republic of Korea,2003,95
+KOR,Republic of Korea,2002,99
+KOR,Republic of Korea,2001,105
+KOR,Republic of Korea,2000,114
+LAO,Lao People's Democratic Republic,2015,197
+LAO,Lao People's Democratic Republic,2014,201
+LAO,Lao People's Democratic Republic,2013,205
+LAO,Lao People's Democratic Republic,2012,209
+LAO,Lao People's Democratic Republic,2011,214
+LAO,Lao People's Democratic Republic,2010,218
+LAO,Lao People's Democratic Republic,2009,223
+LAO,Lao People's Democratic Republic,2008,228
+LAO,Lao People's Democratic Republic,2007,234
+LAO,Lao People's Democratic Republic,2006,240
+LAO,Lao People's Democratic Republic,2005,246
+LAO,Lao People's Democratic Republic,2004,252
+LAO,Lao People's Democratic Republic,2003,259
+LAO,Lao People's Democratic Republic,2002,265
+LAO,Lao People's Democratic Republic,2001,271
+LAO,Lao People's Democratic Republic,2000,278
+MNG,Mongolia,2015,213
+MNG,Mongolia,2014,215
+MNG,Mongolia,2013,218
+MNG,Mongolia,2012,222
+MNG,Mongolia,2011,227
+MNG,Mongolia,2010,234
+MNG,Mongolia,2009,241
+MNG,Mongolia,2008,248
+MNG,Mongolia,2007,250
+MNG,Mongolia,2006,254
+MNG,Mongolia,2005,258
+MNG,Mongolia,2004,261
+MNG,Mongolia,2003,265
+MNG,Mongolia,2002,268
+MNG,Mongolia,2001,271
+MNG,Mongolia,2000,273
+MYS,Malaysia,2015,126
+MYS,Malaysia,2014,128
+MYS,Malaysia,2013,129
+MYS,Malaysia,2012,129
+MYS,Malaysia,2011,130
+MYS,Malaysia,2010,132
+MYS,Malaysia,2009,133
+MYS,Malaysia,2008,134
+MYS,Malaysia,2007,135
+MYS,Malaysia,2006,137
+MYS,Malaysia,2005,138
+MYS,Malaysia,2004,140
+MYS,Malaysia,2003,141
+MYS,Malaysia,2002,143
+MYS,Malaysia,2001,144
+MYS,Malaysia,2000,145
+NZL,New Zealand,2015,67
+NZL,New Zealand,2014,67
+NZL,New Zealand,2013,66
+NZL,New Zealand,2012,68
+NZL,New Zealand,2011,71
+NZL,New Zealand,2010,71
+NZL,New Zealand,2009,73
+NZL,New Zealand,2008,74
+NZL,New Zealand,2007,76
+NZL,New Zealand,2006,75
+NZL,New Zealand,2005,77
+NZL,New Zealand,2004,79
+NZL,New Zealand,2003,81
+NZL,New Zealand,2002,82
+NZL,New Zealand,2001,83
+NZL,New Zealand,2000,86
+PHL,Philippines,2015,195
+PHL,Philippines,2014,197
+PHL,Philippines,2013,199
+PHL,Philippines,2012,200
+PHL,Philippines,2011,202
+PHL,Philippines,2010,203
+PHL,Philippines,2009,207
+PHL,Philippines,2008,207
+PHL,Philippines,2007,208
+PHL,Philippines,2006,215
+PHL,Philippines,2005,217
+PHL,Philippines,2004,213
+PHL,Philippines,2003,212
+PHL,Philippines,2002,216
+PHL,Philippines,2001,215
+PHL,Philippines,2000,213
+PNG,Papua New Guinea,2015,226
+PNG,Papua New Guinea,2014,228
+PNG,Papua New Guinea,2013,231
+PNG,Papua New Guinea,2012,234
+PNG,Papua New Guinea,2011,235
+PNG,Papua New Guinea,2010,235
+PNG,Papua New Guinea,2009,235
+PNG,Papua New Guinea,2008,237
+PNG,Papua New Guinea,2007,243
+PNG,Papua New Guinea,2006,249
+PNG,Papua New Guinea,2005,254
+PNG,Papua New Guinea,2004,260
+PNG,Papua New Guinea,2003,265
+PNG,Papua New Guinea,2002,269
+PNG,Papua New Guinea,2001,273
+PNG,Papua New Guinea,2000,276
+SGP,Singapore,2015,54
+SGP,Singapore,2014,55
+SGP,Singapore,2013,56
+SGP,Singapore,2012,57
+SGP,Singapore,2011,59
+SGP,Singapore,2010,60
+SGP,Singapore,2009,62
+SGP,Singapore,2008,67
+SGP,Singapore,2007,68
+SGP,Singapore,2006,71
+SGP,Singapore,2005,74
+SGP,Singapore,2004,73
+SGP,Singapore,2003,73
+SGP,Singapore,2002,76
+SGP,Singapore,2001,77
+SGP,Singapore,2000,79
+SLB,Solomon Islands,2015,149
+SLB,Solomon Islands,2014,156
+SLB,Solomon Islands,2013,157
+SLB,Solomon Islands,2012,160
+SLB,Solomon Islands,2011,165
+SLB,Solomon Islands,2010,170
+SLB,Solomon Islands,2009,177
+SLB,Solomon Islands,2008,181
+SLB,Solomon Islands,2007,191
+SLB,Solomon Islands,2006,192
+SLB,Solomon Islands,2005,199
+SLB,Solomon Islands,2004,205
+SLB,Solomon Islands,2003,211
+SLB,Solomon Islands,2002,218
+SLB,Solomon Islands,2001,225
+SLB,Solomon Islands,2000,232
+TON,Tonga,2015,135
+TON,Tonga,2014,136
+TON,Tonga,2013,138
+TON,Tonga,2012,139
+TON,Tonga,2011,141
+TON,Tonga,2010,142
+TON,Tonga,2009,147
+TON,Tonga,2008,145
+TON,Tonga,2007,146
+TON,Tonga,2006,148
+TON,Tonga,2005,150
+TON,Tonga,2004,151
+TON,Tonga,2003,153
+TON,Tonga,2002,155
+TON,Tonga,2001,157
+TON,Tonga,2000,158
+VNM,Viet Nam,2015,126
+VNM,Viet Nam,2014,128
+VNM,Viet Nam,2013,129
+VNM,Viet Nam,2012,130
+VNM,Viet Nam,2011,131
+VNM,Viet Nam,2010,132
+VNM,Viet Nam,2009,133
+VNM,Viet Nam,2008,135
+VNM,Viet Nam,2007,136
+VNM,Viet Nam,2006,137
+VNM,Viet Nam,2005,137
+VNM,Viet Nam,2004,137
+VNM,Viet Nam,2003,137
+VNM,Viet Nam,2002,137
+VNM,Viet Nam,2001,138
+VNM,Viet Nam,2000,139
+VUT,Vanuatu,2015,132
+VUT,Vanuatu,2014,136
+VUT,Vanuatu,2013,137
+VUT,Vanuatu,2012,139
+VUT,Vanuatu,2011,142
+VUT,Vanuatu,2010,146
+VUT,Vanuatu,2009,149
+VUT,Vanuatu,2008,153
+VUT,Vanuatu,2007,156
+VUT,Vanuatu,2006,160
+VUT,Vanuatu,2005,164
+VUT,Vanuatu,2004,168
+VUT,Vanuatu,2003,172
+VUT,Vanuatu,2002,176
+VUT,Vanuatu,2001,180
+VUT,Vanuatu,2000,184
+WSM,Samoa,2015,113
+WSM,Samoa,2014,115
+WSM,Samoa,2013,118
+WSM,Samoa,2012,124
+WSM,Samoa,2011,127
+WSM,Samoa,2010,134
+WSM,Samoa,2009,164
+WSM,Samoa,2008,139
+WSM,Samoa,2007,144
+WSM,Samoa,2006,149
+WSM,Samoa,2005,157
+WSM,Samoa,2004,161
+WSM,Samoa,2003,169
+WSM,Samoa,2002,175
+WSM,Samoa,2001,176
+WSM,Samoa,2000,180
